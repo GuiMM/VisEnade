@@ -25,8 +25,7 @@ namespace DataWorker
         public string tipoDePresenca;
         public string notaConhecimentosGerais;
         public string notaConhecimentosEspecificos;
-        [FieldConverter(ConverterKind.Double)]
-        public double? notaGeral;
+        public string notaGeral;
         public string faixaDeRenda;
 
     }
