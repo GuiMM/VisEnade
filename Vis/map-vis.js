@@ -6,7 +6,7 @@ myApp.margins = {top: 10, bottom: 30, left: 25, right: 15};
 myApp.cw = 500;
 myApp.ch = 500;
 myApp.dt = [];
-
+myApp.medias = undefined;
 myApp.svgCon = undefined;
 myApp.svgMer = undefined;
 
@@ -23,6 +23,21 @@ myApp.loadGeoJson = function(file)
     });
 }
 
+myApp.loadData = function(file)
+{
+  d3.csv(file, function(d, i, columns) {
+        Object.keys(d).forEach(function(key){
+            if (!isNaN(+d[key])) d[key] = +d[key]
+        })
+        return d;
+    }, function(error, data) {
+    if (error) throw error;
+
+        myApp.medias=data;        
+       
+    });
+
+}
 myApp.appendSvg = function(div)
 {
     
@@ -62,7 +77,7 @@ myApp.buildMapConic = function()
 myApp.buildMapMercator = function()
 {
     
-    var color = d3.scaleOrdinal(d3.schemeCategory20);
+    var color = d3.scaleLinear().domain([0,50,100]).range(['red','yellow','blue']);
     var projection = d3.geoMercator()
         .center([-50,-15])
         .scale(550)
@@ -75,7 +90,10 @@ myApp.buildMapMercator = function()
         .data(myApp.dt)
         .enter()
         .append("path")
-        .style('fill', function(d){return color(d.properties.geocodigo);})
+        .style('fill', function(d){
+            for (var i = 0; i < myApp.medias.length; i++) {
+                    if (d.properties.uf_05.localeCompare(myApp.medias[i].estado)==0) return color(myApp.medias[i].media);
+                };})
         .attr("d", path);
 }
 
@@ -84,7 +102,7 @@ myApp.run = function()
 {        
     myApp.appendSvg("#mainDiv");
     myApp.appendMapGroups(); 
-        
+    myApp.loadData("../DataWorker/DataWorker/DataWorker/Output/StatesGrades.csv");    
     myApp.loadGeoJson("./brasil_estados.geojson");
 }
 
