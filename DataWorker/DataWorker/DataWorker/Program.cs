@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using FileHelpers;
 using System.IO;
 using Newtonsoft.Json;
+using DataWorker.Models;
 
 namespace DataWorker
 {
@@ -101,9 +102,10 @@ namespace DataWorker
             };
             #endregion
 
-            Dictionary<string, List<double>> stateGrades                            = new Dictionary<string, List<double>>();
-            Dictionary<string, Dictionary<string, List<double>>> courseIncomeGrades = new Dictionary<string, Dictionary<string, List<double>>>();
+            Dictionary<string, List<double>> stateGrades                                                    = new Dictionary<string, List<double>>();
+            Dictionary<string, Dictionary<string, List<double>>> courseIncomeGrades                         = new Dictionary<string, Dictionary<string, List<double>>>();
             Dictionary<string, Dictionary<string, Dictionary<string,List<double>>>> courseStateIncomeGrades = new Dictionary<string, Dictionary<string, Dictionary<string,List<double>>>>();
+            Dictionary<string, int> countIncomes                                                            = new Dictionary<string, int>();
 
             FileHelperEngine<EnadeObject> readEngine = new FileHelperEngine<EnadeObject>();
             int count = 1;
@@ -154,7 +156,7 @@ namespace DataWorker
                         courseIncomeGrades[currentRecord.codigoCurso].Add(currentRecord.faixaDeRenda, new List<double>());
                 }
 
-                //Filling course/state/gender/income/grades dictionary
+                //Filling course/state/income/grades dictionary
                 if (courseStateIncomeGrades.ContainsKey(currentRecord.codigoCurso))
                 {
                     
@@ -195,6 +197,16 @@ namespace DataWorker
                         courseStateIncomeGrades[currentRecord.codigoCurso][currentRecord.codigoUF].Add(currentRecord.faixaDeRenda, new List<double> { Double.Parse(currentRecord.notaGeral) / 10 });
                     else
                         courseStateIncomeGrades[currentRecord.codigoCurso][currentRecord.codigoUF].Add(currentRecord.faixaDeRenda, new List<double>());
+                }
+
+                // Count incomes
+                if (countIncomes.ContainsKey(currentRecord.faixaDeRenda))
+                {
+                    countIncomes[currentRecord.faixaDeRenda] ++;
+                }
+                else
+                {
+                    countIncomes.Add(currentRecord.faixaDeRenda, 1);
                 }
 
                 count++;
@@ -347,72 +359,100 @@ namespace DataWorker
             CourseStateIncomeObject csiObj;
 
             StreamWriter sw2 = new StreamWriter("C:\\Projetos\\UFF\\VisEnade\\DataWorker\\DataWorker\\DataWorker\\Output\\courseStateIncomeGrade.json");
-            
+
             // Course/Income/Grades file
-            foreach (string currentCourse in courseStateIncomeGrades.Keys)
+            // foreach (string currentCourse in courseStateIncomeGrades.Keys)
+            // {
+            //     foreach (string currentState in courseStateIncomeGrades[currentCourse].Keys)
+            //     {
+            //         csiObj = new CourseStateIncomeObject();
+            //         foreach (string currentIncome in courseStateIncomeGrades[currentCourse][currentState].Keys)
+            //         {
+            //             
+            //             // Changing courses codes to names, to write the file
+            //             if (courses.ContainsKey(currentCourse))
+            //             {
+            //                 csiObj.course = courses[currentCourse];
+            //             }
+            //             else
+            //             {
+            //                 Console.WriteLine("Curso não encontrado na lista");
+            //                 continue;
+            //             }
+            //
+            //             if (states.ContainsKey(currentState))
+            //             {
+            //                 csiObj.state = states[currentState];
+            //             }
+            //             else
+            //             {
+            //                 Console.WriteLine("Estado não encontrado na lista");
+            //                 continue;
+            //             }
+            //
+            //             switch (currentIncome)
+            //             {
+            //                 case "a":
+            //                     csiObj.incomes.a = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
+            //                     break;
+            //                 case "b":
+            //                     csiObj.incomes.b = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
+            //                     break;
+            //                 case "c":
+            //                     csiObj.incomes.c = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
+            //                     break;
+            //                 case "d":
+            //                     csiObj.incomes.d = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
+            //                     break;
+            //                 case "e":
+            //                     csiObj.incomes.e = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
+            //                     break;
+            //                 case "f":
+            //                     csiObj.incomes.f = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
+            //                     break;
+            //                 case "g":
+            //                     csiObj.incomes.g = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
+            //                     break;
+            //                 default:
+            //                     csiObj.incomes.naoInformado = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
+            //                     break;
+            //             }
+            //         }
+            //         //Writting on file
+            //         sw2.WriteLine(JsonConvert.SerializeObject(csiObj));
+            //         sw2.Flush();
+            //     }
+            // }
+            //
+            // sw2.Close();
+
+            // Count Income
+            CountIncomeObject countIncomeObj;
+            StreamWriter sw3 = new StreamWriter("C:\\Projetos\\UFF\\VisEnade\\DataWorker\\DataWorker\\DataWorker\\Output\\countIncome.json");
+
+            foreach(string currentIncome in countIncomes.Keys)
             {
-                foreach (string currentState in courseStateIncomeGrades[currentCourse].Keys)
+                countIncomeObj = new CountIncomeObject();
+
+                if (incomes.ContainsKey(currentIncome))
                 {
-                    csiObj = new CourseStateIncomeObject();
-                    foreach (string currentIncome in courseStateIncomeGrades[currentCourse][currentState].Keys)
-                    {
-                        
-                        // Changing courses codes to names, to write the file
-                        if (courses.ContainsKey(currentCourse))
-                        {
-                            csiObj.course = courses[currentCourse];
-                        }
-                        else
-                        {
-                            Console.WriteLine("Curso não encontrado na lista");
-                            continue;
-                        }
-
-                        if (states.ContainsKey(currentState))
-                        {
-                            csiObj.state = states[currentState];
-                        }
-                        else
-                        {
-                            Console.WriteLine("Estado não encontrado na lista");
-                            continue;
-                        }
-
-                        switch (currentIncome)
-                        {
-                            case "a":
-                                csiObj.incomes.a = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
-                                break;
-                            case "b":
-                                csiObj.incomes.b = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
-                                break;
-                            case "c":
-                                csiObj.incomes.c = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
-                                break;
-                            case "d":
-                                csiObj.incomes.d = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
-                                break;
-                            case "e":
-                                csiObj.incomes.e = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
-                                break;
-                            case "f":
-                                csiObj.incomes.f = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
-                                break;
-                            case "g":
-                                csiObj.incomes.g = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
-                                break;
-                            default:
-                                csiObj.incomes.naoInformado = CalculateCourseStateAvgGrade(courseStateIncomeGrades, currentCourse, currentState, currentIncome);
-                                break;
-                        }
-                    }
-                    //Writting on file
-                    sw2.WriteLine(JsonConvert.SerializeObject(csiObj));
-                    sw2.Flush();
+                    countIncomeObj.income = incomes[currentIncome];
                 }
+                else
+                {
+                    Console.WriteLine("Renda não encontrada na lista");
+                    continue;
+                }
+
+                countIncomeObj.count = countIncomes[currentIncome];
+
+
+                sw3.WriteLine(JsonConvert.SerializeObject(countIncomeObj));
+                sw3.Flush();
             }
 
-            sw2.Close();
+            sw3.Close();
+
             #endregion
 
             Console.WriteLine("Arquivos finalizados");

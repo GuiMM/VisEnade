@@ -50,12 +50,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CourseIncomeObject.cs" />
-    <Compile Include="CourseStateIncomeObject.cs" />
-    <Compile Include="EnadeObject.cs" />
+    <Compile Include="Models\CountIncomeObject.cs" />
+    <Compile Include="Models\CourseIncomeObject.cs" />
+    <Compile Include="Models\CourseStateIncomeObject.cs" />
+    <Compile Include="Models\EnadeObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="WriteFileObject.cs" />
+    <Compile Include="Models\WriteFileObject.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
