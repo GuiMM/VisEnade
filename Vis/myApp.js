@@ -12,6 +12,20 @@ myApp.run = function()
    
     myApp.chart01 = new map();
     myApp.chart01.run();
+    
+    
+    //loading data
+    var file = "../DataWorker/DataWorker/DataWorker/Output/courseStateIncomeGrade.json";
+     d3.json(file, function(error, data)
+            {
+                myApp.chart02 = new histograma();
+                myApp.chart02.run(data);
+                      
+            });
+    
+    
+    
+   
 }
 
 
