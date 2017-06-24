@@ -15,7 +15,7 @@ myApp.run = function()
     
     
     //loading data
-    var file = "../DataWorker/DataWorker/DataWorker/Output/courseStateIncomeGrade.json";
+    var file = "../DataWorker/DataWorker/DataWorker/Output/courseIncomeGrade.json";
      d3.json(file, function(error, data)
             {
                 myApp.chart02 = new histograma();

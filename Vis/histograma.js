@@ -4,7 +4,7 @@
         var scope = {};
         var exports = {};
         
-        scope.margins = {top: 10, bottom: 150, left: 25, right: 15};
+        scope.margins = {top: 10, bottom: 250, left: 50, right: 15};
         scope.cw = 500;
         scope.ch = 500;
         scope.labelX = undefined;
@@ -63,12 +63,12 @@
             .enter().append("g")
             .attr("transform", function(d) { return "translate(" + scope.xScale0(d.course) + ",0)"; })
             .selectAll("rect")
-            .data(function(d) { console.log(d.incomes);return keys.map(function(key) { return {key: key, value: d[key]}; }); })
+            .data(function(d) { return keys.map(function(key) { return {key: key, value: d.incomes[key]}; }); })
             .enter().append("rect")
             .attr("x", function(d) { console.log(d.key);return scope.xScale1(d.key); })
-            .attr("y", function(d) { console.log(d.incomes.value); return scope.yScale(d.incomes.value); })
+            .attr("y", function(d) { console.log(d.value); return scope.yScale(d.value); })
             .attr("width", scope.xScale1.bandwidth())
-            .attr("height", function(d) { return scope.ch -scope.margins.top - scope.yScale(d.value); })
+            .attr("height", function(d) { return scope.ch -scope.margins.top - scope.yScale(d.value); })// 500 - 10 -
             .attr("fill", function(d) { return scope.zScale(d.key); });
 
          
@@ -76,7 +76,7 @@
 
         scope.createAxes = function(svg)
         {   
-
+            var keys = Object.keys(scope.data[0].incomes);
             scope.xScale0 = d3.scaleBand()
                 .rangeRound([0, scope.cw])
                 .paddingInner(0.1)
@@ -86,8 +86,8 @@
                 .domain(["a","b","c","d","e","f","g","naoInformado"])
                 .rangeRound([0, scope.xScale0.bandwidth()]);
             scope.yScale = d3.scaleLinear()
-                .rangeRound([scope.ch, 0])
-                .domain([0, 100]).nice();
+                .rangeRound([scope.ch, 0]) //0 - 500   100 - 0
+                .domain([0, d3.max(scope.data, function(d) { return d3.max(keys, function(key) { return d.incomes[key]; }); })]).nice();
              scope.zScale = d3.scaleOrdinal(d3.schemeCategory20);
 
             scope.xAxis = svg.append("g")
@@ -199,7 +199,7 @@
         exports.run = function(data) 
         {
             //apenas testando para um estado qualquer
-            scope.currState = "MT";
+            //scope.currState = "MT";
             //scope.data = data;
             console.log(data);
             

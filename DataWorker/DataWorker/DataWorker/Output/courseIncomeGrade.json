@@ -36,7 +36,7 @@
 {"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","incomes":{"a":34.06,"b":37.39,"c":37.38,"d":38.12,"e":40.05,"f":44.72,"g":48.47,"naoInformado":39.37}},
 {"course":"ENGENHARIA MECÂNICA","incomes":{"a":38.58,"b":39.27,"c":39.42,"d":41.14,"e":43.34,"f":45.77,"g":49.41,"naoInformado":28.12}},
 {"course":"ENGENHARIA QUÍMICA","incomes":{"a":36.61,"b":38.18,"c":39.77,"d":40.84,"e":43.11,"f":44.91,"g":46.48,"naoInformado":29.0}},
-{"course":"ENGENHARIA DE ALIMENTOS","incomes":{"a":41.67,"b":44.97,"c":46.96,"d":46.79,"e":48.48,"f":50.63,"g":54.31,"naoInformado":"NaN"}},
+{"course":"ENGENHARIA DE ALIMENTOS","incomes":{"a":41.67,"b":44.97,"c":46.96,"d":46.79,"e":48.48,"f":50.63,"g":54.31,"naoInformado":0}},
 {"course":"ENGENHARIA DE PRODUÇÃO","incomes":{"a":37.45,"b":38.02,"c":39.63,"d":40.95,"e":42.57,"f":45.46,"g":47.96,"naoInformado":39.04}},
 {"course":"ENGENHARIA","incomes":{"a":40.6,"b":42.29,"c":42.13,"d":44.39,"e":44.89,"f":47.41,"g":49.99,"naoInformado":35.43}},
 {"course":"ENGENHARIA AMBIENTAL","incomes":{"a":40.26,"b":40.94,"c":41.74,"d":43.48,"e":43.94,"f":46.12,"g":48.64,"naoInformado":38.6}},
