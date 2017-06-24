@@ -63,10 +63,10 @@
             .enter().append("g")
             .attr("transform", function(d) { return "translate(" + scope.xScale0(d.course) + ",0)"; })
             .selectAll("rect")
-            .data(function(d) { return keys.map(function(key) { return {key: key, value: d[key]}; }); })
+            .data(function(d) { console.log(d.incomes);return keys.map(function(key) { return {key: key, value: d[key]}; }); })
             .enter().append("rect")
             .attr("x", function(d) { console.log(d.key);return scope.xScale1(d.key); })
-            .attr("y", function(d) { console.log(d.value); return scope.yScale(d.value); })
+            .attr("y", function(d) { console.log(d.incomes.value); return scope.yScale(d.incomes.value); })
             .attr("width", scope.xScale1.bandwidth())
             .attr("height", function(d) { return scope.ch -scope.margins.top - scope.yScale(d.value); })
             .attr("fill", function(d) { return scope.zScale(d.key); });
