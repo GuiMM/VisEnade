@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataWorker
+namespace DataWorker.Models
 {
     public class CourseIncomeObject
     {
@@ -30,14 +30,14 @@ namespace DataWorker
 
         public tpRenda()
         {
-            this.a            = -1;
-            this.b            = -1;
-            this.c            = -1;
-            this.d            = -1;
-            this.e            = -1;
-            this.f            = -1;
-            this.g            = -1;
-            this.naoInformado = -1;
+            this.a            = 0;
+            this.b            = 0;
+            this.c            = 0;
+            this.d            = 0;
+            this.e            = 0;
+            this.f            = 0;
+            this.g            = 0;
+            this.naoInformado = 0;
         }
     }
 }

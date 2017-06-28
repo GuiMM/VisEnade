@@ -107,6 +107,8 @@ namespace DataWorker
             Dictionary<string, Dictionary<string, Dictionary<string,List<double>>>> courseStateIncomeGrades = new Dictionary<string, Dictionary<string, Dictionary<string,List<double>>>>();
             Dictionary<string, int> countIncomes                                                            = new Dictionary<string, int>();
             Dictionary<string, Dictionary<string, Dictionary<string, int>>> courseStateIncomeCount          = new Dictionary<string, Dictionary<string, Dictionary<string, int>>>();
+            Dictionary<string, Dictionary<string, int>> stateIncomeCount                                    = new Dictionary<string, Dictionary<string, int>>();
+            Dictionary<string, Dictionary<string, int>> courseIncomeCount = new Dictionary<string, Dictionary<string, int>>();
 
             FileHelperEngine<EnadeObject> readEngine = new FileHelperEngine<EnadeObject>();
             int count = 1;
@@ -220,7 +222,6 @@ namespace DataWorker
                         //If have all keys insert grade
                         if (courseStateIncomeCount[currentRecord.codigoCurso][currentRecord.codigoUF].ContainsKey(currentRecord.faixaDeRenda))
                         {
-                            if (!String.IsNullOrWhiteSpace(currentRecord.notaGeral))
                                 courseStateIncomeCount[currentRecord.codigoCurso][currentRecord.codigoUF][currentRecord.faixaDeRenda]++;
                         }
                         else
@@ -243,6 +244,46 @@ namespace DataWorker
                     courseStateIncomeCount[currentRecord.codigoCurso].Add(currentRecord.codigoUF, new Dictionary<string, int>());
 
                     courseStateIncomeCount[currentRecord.codigoCurso][currentRecord.codigoUF].Add(currentRecord.faixaDeRenda, 1);
+                }
+
+                //State/Income Count
+                //Filling course/income/grades dictionary
+                if (stateIncomeCount.ContainsKey(currentRecord.codigoUF))
+                {
+                    if (stateIncomeCount[currentRecord.codigoUF].ContainsKey(currentRecord.faixaDeRenda))
+                    {
+                            stateIncomeCount[currentRecord.codigoUF][currentRecord.faixaDeRenda]++;
+                    }
+                    else
+                    {
+                        
+                            stateIncomeCount[currentRecord.codigoUF].Add(currentRecord.faixaDeRenda, 1);
+                    }
+                }
+                else
+                {
+                    stateIncomeCount.Add(currentRecord.codigoUF, new Dictionary<string, int>());
+                    
+                        stateIncomeCount[currentRecord.codigoUF].Add(currentRecord.faixaDeRenda, 1);
+                }
+
+                //Course/Income Count
+                //Filling course/income/grades dictionary
+                if (courseIncomeCount.ContainsKey(currentRecord.codigoCurso))
+                {
+                    if (courseIncomeCount[currentRecord.codigoCurso].ContainsKey(currentRecord.faixaDeRenda))
+                    {
+                            courseIncomeCount[currentRecord.codigoCurso][currentRecord.faixaDeRenda]++;
+                    }
+                    else
+                    {
+                            courseIncomeCount[currentRecord.codigoCurso].Add(currentRecord.faixaDeRenda, 1);
+                    }
+                }
+                else
+                {
+                    courseIncomeCount.Add(currentRecord.codigoCurso, new Dictionary<string, int>());
+                    courseIncomeCount[currentRecord.codigoCurso].Add(currentRecord.faixaDeRenda, 1);
                 }
                 count++;
             }
@@ -554,6 +595,118 @@ namespace DataWorker
             }
 
             sw4.Close();
+
+            StateIncomeCountObject stateIncomeCountObj = new StateIncomeCountObject();
+            StreamWriter sw5 = new StreamWriter("C:\\Projetos\\UFF\\VisEnade\\DataWorker\\DataWorker\\DataWorker\\Output\\StateIncomeCount.json");
+
+            foreach (string currentState in stateIncomeCount.Keys)
+            {
+                stateIncomeCountObj = new StateIncomeCountObject();
+
+                foreach (string currentIncome in stateIncomeCount[currentState].Keys)
+                {
+
+                    // Changing courses codes to names, to write the file
+                    if (states.ContainsKey(currentState))
+                    {
+                        stateIncomeCountObj.state = states[currentState];
+                    }
+                    else
+                    {
+                        Console.WriteLine("Curso não encontrado na lista");
+                        continue;
+                    }
+
+                    switch (currentIncome)
+                    {
+                        case "a":
+                            stateIncomeCountObj.incomes.a = stateIncomeCount[currentState][currentIncome];
+                            break;
+                        case "b":
+                            stateIncomeCountObj.incomes.b = stateIncomeCount[currentState][currentIncome];
+                            break;
+                        case "c":
+                            stateIncomeCountObj.incomes.c = stateIncomeCount[currentState][currentIncome];
+                            break;
+                        case "d":
+                            stateIncomeCountObj.incomes.d = stateIncomeCount[currentState][currentIncome];
+                            break;
+                        case "e":
+                            stateIncomeCountObj.incomes.e = stateIncomeCount[currentState][currentIncome];
+                            break;
+                        case "f":
+                            stateIncomeCountObj.incomes.f = stateIncomeCount[currentState][currentIncome];
+                            break;
+                        case "g":
+                            stateIncomeCountObj.incomes.g = stateIncomeCount[currentState][currentIncome];
+                            break;
+                        default:
+                            stateIncomeCountObj.incomes.naoInformado = stateIncomeCount[currentState][currentIncome];
+                            break;
+                    }
+                }
+
+                //Writting on file
+                sw5.WriteLine(JsonConvert.SerializeObject(stateIncomeCountObj));
+                sw5.Flush();
+            }
+            sw5.Close();
+
+            CourseIncomeCountObject courseIncomeCountObj = new CourseIncomeCountObject();
+            StreamWriter sw6 = new StreamWriter("C:\\Projetos\\UFF\\VisEnade\\DataWorker\\DataWorker\\DataWorker\\Output\\CourseIncomeCount.json");
+
+            foreach (string currentCourse in courseIncomeCount.Keys)
+            {
+                courseIncomeCountObj = new CourseIncomeCountObject();
+
+                foreach (string currentIncome in courseIncomeCount[currentCourse].Keys)
+                {
+
+                    // Changing courses codes to names, to write the file
+                    if (courses.ContainsKey(currentCourse))
+                    {
+                        courseIncomeCountObj.course = courses[currentCourse];
+                    }
+                    else
+                    {
+                        Console.WriteLine("Curso não encontrado na lista");
+                        continue;
+                    }
+
+                    switch (currentIncome)
+                    {
+                        case "a":
+                            courseIncomeCountObj.incomes.a = courseIncomeCount[currentCourse][currentIncome];
+                            break;
+                        case "b":
+                            courseIncomeCountObj.incomes.b = courseIncomeCount[currentCourse][currentIncome];
+                            break;
+                        case "c":
+                            courseIncomeCountObj.incomes.c = courseIncomeCount[currentCourse][currentIncome];
+                            break;
+                        case "d":
+                            courseIncomeCountObj.incomes.d = courseIncomeCount[currentCourse][currentIncome];
+                            break;
+                        case "e":
+                            courseIncomeCountObj.incomes.e = courseIncomeCount[currentCourse][currentIncome];
+                            break;
+                        case "f":
+                            courseIncomeCountObj.incomes.f = courseIncomeCount[currentCourse][currentIncome];
+                            break;
+                        case "g":
+                            courseIncomeCountObj.incomes.g = courseIncomeCount[currentCourse][currentIncome];
+                            break;
+                        default:
+                            courseIncomeCountObj.incomes.naoInformado = courseIncomeCount[currentCourse][currentIncome];
+                            break;
+                    }
+                }
+
+                //Writting on file
+                sw6.WriteLine(JsonConvert.SerializeObject(courseIncomeCountObj));
+                sw6.Flush();
+            }
+            sw6.Close();
             #endregion
 
             Console.WriteLine("Arquivos finalizados");
