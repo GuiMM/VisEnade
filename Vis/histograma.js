@@ -188,14 +188,17 @@
             
         }
 
-        exports.run = function(data,div) 
-        {
-            //apenas testando para um estado qualquer
-            //scope.currState = "MT";
-            scope.data = data;
-            
-            //data.forEach(scope.separate);
-            
+        exports.run = function(data,div,state) 
+        {   
+            if(state!=""){
+                scope.currState = state;
+                data.forEach(scope.separate);
+            }else{
+                 scope.data = data;
+                
+            }
+           
+        
             
             var svg = scope.appendSvg(div);
             var cht = scope.appendChartGroup(svg); 

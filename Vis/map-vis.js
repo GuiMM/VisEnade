@@ -101,8 +101,30 @@ function map(){
                     };})
             .attr("d", path)
             .on('mouseover', myApp.mouseover)
-            .on('mouseout', myApp.mouseout);
-            //.on('click', myApp.clicked);
+            .on('mouseout', myApp.mouseout)
+            .on('click', myApp.clicked);
+    }
+    myApp.clicked = function(d)
+    {
+        document.getElementById("chart02").innerHTML = "";
+        document.getElementById("chart03").innerHTML = "";
+        
+        var file = "../DataWorker/DataWorker/DataWorker/Output/courseStateIncomeGrade - g1.json";
+     d3.json(file, function(error, data)
+            {
+                myApp.chart02 = new histograma();
+                myApp.chart02.run(data,"#chart02",d.properties.uf_05);
+                      
+            });
+    
+     //loading data
+    var file = "../DataWorker/DataWorker/DataWorker/Output/courseStateIncomeGrade - g2.json";
+     d3.json(file, function(error, data)
+            {
+                myApp.chart03 = new histograma();
+                myApp.chart03.run(data,"#chart03",d.properties.uf_05);
+                      
+            });
     }
     myApp.mouseout = function(d){
         myApp.mapMer.selectAll('path')
@@ -114,8 +136,6 @@ function map(){
     myApp.mouseover= function(d){
         // Highlight hovered province
         d3.select(this).style('fill', 'orange');
-
-        console.log(d.properties.nome_uf);
         
     }
     myApp.legend =  function()
