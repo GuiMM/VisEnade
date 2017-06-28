@@ -1,43 +1,43 @@
-{"course":"ARQUITETURA E URBANISMO","incomes":{"a":40.39,"b":41.47,"c":41.63,"d":42.01,"e":43.12,"f":44.16,"g":44.66,"naoInformado":42.29}}
-{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","incomes":{"a":32.06,"b":34.57,"c":36.25,"d":37.79,"e":39.08,"f":41.89,"g":41.17,"naoInformado":27.55}}
-{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","incomes":{"a":40.27,"b":40.79,"c":42.43,"d":45.5,"e":44.9,"f":47.31,"g":49.22,"naoInformado":41.24}}
-{"course":"TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL","incomes":{"a":42.15,"b":42.09,"c":42.11,"d":43.45,"e":46.13,"f":44.49,"g":39.37,"naoInformado":27.3}}
-{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","incomes":{"a":36.0,"b":37.01,"c":38.4,"d":39.72,"e":40.71,"f":41.75,"g":45.66,"naoInformado":36.16}}
-{"course":"MATEMÁTICA(BACHARELADO)","incomes":{"a":36.7,"b":39.02,"c":43.98,"d":37.49,"e":40.11,"f":41.29,"g":49.06,"naoInformado":44.85}}
-{"course":"MATEMÁTICA(LICENCIATURA)","incomes":{"a":26.69,"b":29.06,"c":30.03,"d":31.09,"e":32.58,"f":36.66,"g":35.93,"naoInformado":25.7}}
-{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","incomes":{"a":41.92,"b":40.85,"c":45.66,"d":43.19,"e":47.5,"f":46.63,"g":44.43,"naoInformado":48.2}}
-{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","incomes":{"a":35.5,"b":37.56,"c":39.07,"d":40.65,"e":43.95,"f":45.48,"g":52.27,"naoInformado":31.12}}
-{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","incomes":{"a":34.66,"b":38.29,"c":41.47,"d":43.04,"e":45.62,"f":47.87,"g":48.22,"naoInformado":32.41}}
-{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","incomes":{"a":31.78,"b":34.25,"c":37.65,"d":39.72,"e":41.07,"f":45.42,"g":45.56,"naoInformado":29.75}}
-{"course":"FÍSICA(BACHARELADO)","incomes":{"a":34.86,"b":31.41,"c":33.65,"d":35.83,"e":35.26,"f":45.15,"g":45.28,"naoInformado":41.6}}
-{"course":"FÍSICA(LICENCIATURA)","incomes":{"a":32.42,"b":35.1,"c":37.98,"d":38.34,"e":39.93,"f":44.72,"g":45.27,"naoInformado":25.24}}
-{"course":"QUÍMICA(BACHARELADO)","incomes":{"a":33.31,"b":35.34,"c":35.93,"d":38.38,"e":38.89,"f":40.12,"g":40.97,"naoInformado":17.37}}
-{"course":"QUÍMICA(LICENCIATURA)","incomes":{"a":34.69,"b":37.63,"c":38.47,"d":40.15,"e":40.88,"f":45.94,"g":43.32,"naoInformado":31.68}}
-{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","incomes":{"a":39.86,"b":42.56,"c":44.23,"d":45.39,"e":45.81,"f":48.81,"g":47.51,"naoInformado":29.32}}
-{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","incomes":{"a":35.98,"b":39.36,"c":41.05,"d":42.24,"e":44.12,"f":46.5,"g":47.05,"naoInformado":32.7}}
-{"course":"PEDAGOGIA(LICENCIATURA)","incomes":{"a":38.52,"b":42.21,"c":44.8,"d":46.14,"e":48.11,"f":49.8,"g":47.69,"naoInformado":35.0}}
-{"course":"HISTÓRIA(BACHARELADO)","incomes":{"a":37.22,"b":40.09,"c":43.15,"d":43.24,"e":45.96,"f":47.73,"g":49.78,"naoInformado":33.51}}
-{"course":"HISTÓRIA(LICENCIATURA)","incomes":{"a":32.59,"b":35.92,"c":38.53,"d":39.8,"e":41.37,"f":45.97,"g":48.9,"naoInformado":29.05}}
-{"course":"ARTES VISUAIS(LICENCIATURA)","incomes":{"a":34.82,"b":37.35,"c":38.96,"d":40.74,"e":42.28,"f":49.51,"g":57.41,"naoInformado":33.04}}
-{"course":"GEOGRAFIA(BACHARELADO)","incomes":{"a":37.87,"b":41.31,"c":42.71,"d":41.25,"e":43.14,"f":47.8,"g":44.0,"naoInformado":38.07}}
-{"course":"GEOGRAFIA(LICENCIATURA)","incomes":{"a":33.47,"b":35.52,"c":37.25,"d":37.98,"e":39.33,"f":40.58,"g":33.74,"naoInformado":34.4}}
-{"course":"FILOSOFIA(BACHARELADO)","incomes":{"a":34.13,"b":40.96,"c":43.97,"d":45.68,"e":48.57,"f":49.22,"g":54.35,"naoInformado":27.6}}
-{"course":"FILOSOFIA(LICENCIATURA)","incomes":{"a":33.42,"b":37.17,"c":38.8,"d":39.21,"e":41.85,"f":41.74,"g":42.26,"naoInformado":28.39}}
-{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","incomes":{"a":37.75,"b":39.63,"c":40.34,"d":41.76,"e":41.06,"f":41.6,"g":42.38,"naoInformado":34.03}}
-{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","incomes":{"a":36.89,"b":39.24,"c":38.72,"d":40.68,"e":42.05,"f":44.16,"g":44.2,"naoInformado":37.48}}
-{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","incomes":{"a":42.26,"b":44.81,"c":47.31,"d":46.39,"e":49.3,"f":49.83,"g":57.1,"naoInformado":47.3}}
-{"course":"SISTEMAS DE INFORMAÇÃO","incomes":{"a":35.78,"b":37.42,"c":39.6,"d":40.52,"e":41.79,"f":43.08,"g":44.37,"naoInformado":32.77}}
-{"course":"MÚSICA(LICENCIATURA)","incomes":{"a":38.58,"b":40.74,"c":43.3,"d":44.75,"e":43.9,"f":46.88,"g":35.85,"naoInformado":39.84}}
-{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","incomes":{"a":36.58,"b":40.51,"c":40.31,"d":42.55,"e":42.81,"f":45.69,"g":46.52,"naoInformado":35.93}}
-{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","incomes":{"a":33.18,"b":34.95,"c":37.15,"d":39.09,"e":39.93,"f":43.45,"g":42.36,"naoInformado":35.89}}
-{"course":"ENGENHARIA CIVIL","incomes":{"a":38.31,"b":38.97,"c":39.83,"d":40.58,"e":42.5,"f":44.84,"g":45.2,"naoInformado":37.05}}
-{"course":"ENGENHARIA ELÉTRICA","incomes":{"a":38.09,"b":38.25,"c":37.83,"d":38.66,"e":40.11,"f":42.65,"g":45.99,"naoInformado":29.81}}
-{"course":"ENGENHARIA DE COMPUTAÇÃO","incomes":{"a":43.47,"b":40.42,"c":39.0,"d":41.43,"e":42.14,"f":46.2,"g":50.11,"naoInformado":28.58}}
-{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","incomes":{"a":34.06,"b":37.39,"c":37.38,"d":38.12,"e":40.05,"f":44.72,"g":48.47,"naoInformado":39.37}}
-{"course":"ENGENHARIA MECÂNICA","incomes":{"a":38.58,"b":39.27,"c":39.42,"d":41.14,"e":43.34,"f":45.77,"g":49.41,"naoInformado":28.12}}
-{"course":"ENGENHARIA QUÍMICA","incomes":{"a":36.61,"b":38.18,"c":39.77,"d":40.84,"e":43.11,"f":44.91,"g":46.48,"naoInformado":29.0}}
-{"course":"ENGENHARIA DE ALIMENTOS","incomes":{"a":41.67,"b":44.97,"c":46.96,"d":46.79,"e":48.48,"f":50.63,"g":54.31,"naoInformado":"NaN"}}
-{"course":"ENGENHARIA DE PRODUÇÃO","incomes":{"a":37.45,"b":38.02,"c":39.63,"d":40.95,"e":42.57,"f":45.46,"g":47.96,"naoInformado":39.04}}
-{"course":"ENGENHARIA","incomes":{"a":40.6,"b":42.29,"c":42.13,"d":44.39,"e":44.89,"f":47.41,"g":49.99,"naoInformado":35.43}}
-{"course":"ENGENHARIA AMBIENTAL","incomes":{"a":40.26,"b":40.94,"c":41.74,"d":43.48,"e":43.94,"f":46.12,"g":48.64,"naoInformado":38.6}}
-{"course":"ENGENHARIA FLORESTAL","incomes":{"a":42.19,"b":44.35,"c":46.44,"d":45.44,"e":47.31,"f":47.01,"g":54.81,"naoInformado":43.83}}
+[{"course":"ARQUITETURA E URBANISMO","incomes":{"a":40.39,"b":41.47,"c":41.63,"d":42.01,"e":43.12,"f":44.16,"g":44.66,"naoInformado":42.29}}                           ,
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","incomes":{"a":32.06,"b":34.57,"c":36.25,"d":37.79,"e":39.08,"f":41.89,"g":41.17,"naoInformado":27.55}},
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","incomes":{"a":40.27,"b":40.79,"c":42.43,"d":45.5,"e":44.9,"f":47.31,"g":49.22,"naoInformado":41.24}}                   ,
+{"course":"TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL","incomes":{"a":42.15,"b":42.09,"c":42.11,"d":43.45,"e":46.13,"f":44.49,"g":39.37,"naoInformado":27.3}}         ,
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","incomes":{"a":36.0,"b":37.01,"c":38.4,"d":39.72,"e":40.71,"f":41.75,"g":45.66,"naoInformado":36.16}}                  ,
+{"course":"MATEMÁTICA(BACHARELADO)","incomes":{"a":36.7,"b":39.02,"c":43.98,"d":37.49,"e":40.11,"f":41.29,"g":49.06,"naoInformado":44.85}}                             ,
+{"course":"MATEMÁTICA(LICENCIATURA)","incomes":{"a":26.69,"b":29.06,"c":30.03,"d":31.09,"e":32.58,"f":36.66,"g":35.93,"naoInformado":25.7}}                            ,
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","incomes":{"a":41.92,"b":40.85,"c":45.66,"d":43.19,"e":47.5,"f":46.63,"g":44.43,"naoInformado":48.2}}                      ,
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","incomes":{"a":35.5,"b":37.56,"c":39.07,"d":40.65,"e":43.95,"f":45.48,"g":52.27,"naoInformado":31.12}}                    ,
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","incomes":{"a":34.66,"b":38.29,"c":41.47,"d":43.04,"e":45.62,"f":47.87,"g":48.22,"naoInformado":32.41}}          ,
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","incomes":{"a":31.78,"b":34.25,"c":37.65,"d":39.72,"e":41.07,"f":45.42,"g":45.56,"naoInformado":29.75}}        ,
+{"course":"FÍSICA(BACHARELADO)","incomes":{"a":34.86,"b":31.41,"c":33.65,"d":35.83,"e":35.26,"f":45.15,"g":45.28,"naoInformado":41.6}}                                 ,
+{"course":"FÍSICA(LICENCIATURA)","incomes":{"a":32.42,"b":35.1,"c":37.98,"d":38.34,"e":39.93,"f":44.72,"g":45.27,"naoInformado":25.24}}                                ,
+{"course":"QUÍMICA(BACHARELADO)","incomes":{"a":33.31,"b":35.34,"c":35.93,"d":38.38,"e":38.89,"f":40.12,"g":40.97,"naoInformado":17.37}}                               ,
+{"course":"QUÍMICA(LICENCIATURA)","incomes":{"a":34.69,"b":37.63,"c":38.47,"d":40.15,"e":40.88,"f":45.94,"g":43.32,"naoInformado":31.68}}                              ,
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","incomes":{"a":39.86,"b":42.56,"c":44.23,"d":45.39,"e":45.81,"f":48.81,"g":47.51,"naoInformado":29.32}}                   ,
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","incomes":{"a":35.98,"b":39.36,"c":41.05,"d":42.24,"e":44.12,"f":46.5,"g":47.05,"naoInformado":32.7}}                    ,
+{"course":"PEDAGOGIA(LICENCIATURA)","incomes":{"a":38.52,"b":42.21,"c":44.8,"d":46.14,"e":48.11,"f":49.8,"g":47.69,"naoInformado":35.0}}                               ,
+{"course":"HISTÓRIA(BACHARELADO)","incomes":{"a":37.22,"b":40.09,"c":43.15,"d":43.24,"e":45.96,"f":47.73,"g":49.78,"naoInformado":33.51}}                              ,
+{"course":"HISTÓRIA(LICENCIATURA)","incomes":{"a":32.59,"b":35.92,"c":38.53,"d":39.8,"e":41.37,"f":45.97,"g":48.9,"naoInformado":29.05}}                               ,
+{"course":"ARTES VISUAIS(LICENCIATURA)","incomes":{"a":34.82,"b":37.35,"c":38.96,"d":40.74,"e":42.28,"f":49.51,"g":57.41,"naoInformado":33.04}}                        ,
+{"course":"GEOGRAFIA(BACHARELADO)","incomes":{"a":37.87,"b":41.31,"c":42.71,"d":41.25,"e":43.14,"f":47.8,"g":44.0,"naoInformado":38.07}}                               ,
+{"course":"GEOGRAFIA(LICENCIATURA)","incomes":{"a":33.47,"b":35.52,"c":37.25,"d":37.98,"e":39.33,"f":40.58,"g":33.74,"naoInformado":34.4}}                             ,
+{"course":"FILOSOFIA(BACHARELADO)","incomes":{"a":34.13,"b":40.96,"c":43.97,"d":45.68,"e":48.57,"f":49.22,"g":54.35,"naoInformado":27.6}}                              ,
+{"course":"FILOSOFIA(LICENCIATURA)","incomes":{"a":33.42,"b":37.17,"c":38.8,"d":39.21,"e":41.85,"f":41.74,"g":42.26,"naoInformado":28.39}}                             ,
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","incomes":{"a":37.75,"b":39.63,"c":40.34,"d":41.76,"e":41.06,"f":41.6,"g":42.38,"naoInformado":34.03}}                       ,
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","incomes":{"a":36.89,"b":39.24,"c":38.72,"d":40.68,"e":42.05,"f":44.16,"g":44.2,"naoInformado":37.48}}                  ,
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","incomes":{"a":42.26,"b":44.81,"c":47.31,"d":46.39,"e":49.3,"f":49.83,"g":57.1,"naoInformado":47.3}}                   ,
+{"course":"SISTEMAS DE INFORMAÇÃO","incomes":{"a":35.78,"b":37.42,"c":39.6,"d":40.52,"e":41.79,"f":43.08,"g":44.37,"naoInformado":32.77}}                              ,
+{"course":"MÚSICA(LICENCIATURA)","incomes":{"a":38.58,"b":40.74,"c":43.3,"d":44.75,"e":43.9,"f":46.88,"g":35.85,"naoInformado":39.84}}                                 ,
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","incomes":{"a":36.58,"b":40.51,"c":40.31,"d":42.55,"e":42.81,"f":45.69,"g":46.52,"naoInformado":35.93}}                      ,
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","incomes":{"a":33.18,"b":34.95,"c":37.15,"d":39.09,"e":39.93,"f":43.45,"g":42.36,"naoInformado":35.89}}                     ,
+{"course":"ENGENHARIA CIVIL","incomes":{"a":38.31,"b":38.97,"c":39.83,"d":40.58,"e":42.5,"f":44.84,"g":45.2,"naoInformado":37.05}}                                     ,
+{"course":"ENGENHARIA ELÉTRICA","incomes":{"a":38.09,"b":38.25,"c":37.83,"d":38.66,"e":40.11,"f":42.65,"g":45.99,"naoInformado":29.81}}                                ,
+{"course":"ENGENHARIA DE COMPUTAÇÃO","incomes":{"a":43.47,"b":40.42,"c":39.0,"d":41.43,"e":42.14,"f":46.2,"g":50.11,"naoInformado":28.58}}                             ,
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","incomes":{"a":34.06,"b":37.39,"c":37.38,"d":38.12,"e":40.05,"f":44.72,"g":48.47,"naoInformado":39.37}}                 ,
+{"course":"ENGENHARIA MECÂNICA","incomes":{"a":38.58,"b":39.27,"c":39.42,"d":41.14,"e":43.34,"f":45.77,"g":49.41,"naoInformado":28.12}}                                ,
+{"course":"ENGENHARIA QUÍMICA","incomes":{"a":36.61,"b":38.18,"c":39.77,"d":40.84,"e":43.11,"f":44.91,"g":46.48,"naoInformado":29.0}}                                  ,
+{"course":"ENGENHARIA DE ALIMENTOS","incomes":{"a":41.67,"b":44.97,"c":46.96,"d":46.79,"e":48.48,"f":50.63,"g":54.31,"naoInformado":"NaN"}}                            ,
+{"course":"ENGENHARIA DE PRODUÇÃO","incomes":{"a":37.45,"b":38.02,"c":39.63,"d":40.95,"e":42.57,"f":45.46,"g":47.96,"naoInformado":39.04}}                             ,
+{"course":"ENGENHARIA","incomes":{"a":40.6,"b":42.29,"c":42.13,"d":44.39,"e":44.89,"f":47.41,"g":49.99,"naoInformado":35.43}}                                          ,
+{"course":"ENGENHARIA AMBIENTAL","incomes":{"a":40.26,"b":40.94,"c":41.74,"d":43.48,"e":43.94,"f":46.12,"g":48.64,"naoInformado":38.6}}                                ,
+{"course":"ENGENHARIA FLORESTAL","incomes":{"a":42.19,"b":44.35,"c":46.44,"d":45.44,"e":47.31,"f":47.01,"g":54.81,"naoInformado":43.83}}]
