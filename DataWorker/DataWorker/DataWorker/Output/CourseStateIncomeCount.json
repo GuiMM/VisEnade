@@ -1,0 +1,998 @@
+{"course":"ARQUITETURA E URBANISMO","state":"MT","incomes":{"a":14,"b":48,"c":71,"d":33,"e":72,"f":49,"g":8,"naoInformado":2}}
+{"course":"ARQUITETURA E URBANISMO","state":"DF","incomes":{"a":6,"b":24,"c":33,"d":32,"e":101,"f":139,"g":55,"naoInformado":3}}
+{"course":"ARQUITETURA E URBANISMO","state":"SE","incomes":{"a":5,"b":17,"c":19,"d":24,"e":38,"f":25,"g":2,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"AM","incomes":{"a":28,"b":49,"c":49,"d":43,"e":40,"f":39,"g":7,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"PI","incomes":{"a":1,"b":14,"c":11,"d":11,"e":21,"f":33,"g":4,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"MG","incomes":{"a":64,"b":221,"c":222,"d":228,"e":307,"f":277,"g":61,"naoInformado":2}}
+{"course":"ARQUITETURA E URBANISMO","state":"PR","incomes":{"a":26,"b":129,"c":153,"d":170,"e":250,"f":227,"g":59,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"PE","incomes":{"a":21,"b":69,"c":67,"d":59,"e":107,"f":99,"g":19,"naoInformado":2}}
+{"course":"ARQUITETURA E URBANISMO","state":"RS","incomes":{"a":80,"b":184,"c":226,"d":227,"e":306,"f":268,"g":55,"naoInformado":2}}
+{"course":"ARQUITETURA E URBANISMO","state":"SP","incomes":{"a":116,"b":436,"c":652,"d":586,"e":858,"f":797,"g":235,"naoInformado":3}}
+{"course":"ARQUITETURA E URBANISMO","state":"SC","incomes":{"a":43,"b":138,"c":154,"d":153,"e":184,"f":140,"g":21,"naoInformado":4}}
+{"course":"ARQUITETURA E URBANISMO","state":"GO","incomes":{"a":21,"b":59,"c":85,"d":70,"e":100,"f":98,"g":30,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"RJ","incomes":{"a":37,"b":87,"c":125,"d":143,"e":204,"f":216,"g":57,"naoInformado":2}}
+{"course":"ARQUITETURA E URBANISMO","state":"PB","incomes":{"a":12,"b":31,"c":36,"d":37,"e":42,"f":43,"g":12,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"PA","incomes":{"a":13,"b":8,"c":14,"d":16,"e":34,"f":33,"g":13,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"BA","incomes":{"a":28,"b":84,"c":67,"d":73,"e":108,"f":152,"g":40,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"RO","incomes":{"a":11,"b":36,"c":47,"d":27,"e":35,"f":27,"g":5,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"CE","incomes":{"a":9,"b":24,"c":24,"d":28,"e":58,"f":94,"g":23,"naoInformado":3}}
+{"course":"ARQUITETURA E URBANISMO","state":"MA","incomes":{"a":6,"b":29,"c":30,"d":30,"e":39,"f":51,"g":12,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"RN","incomes":{"a":9,"b":24,"c":26,"d":20,"e":38,"f":36,"g":4,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"ES","incomes":{"a":9,"b":39,"c":52,"d":38,"e":80,"f":70,"g":16,"naoInformado":2}}
+{"course":"ARQUITETURA E URBANISMO","state":"AL","incomes":{"a":26,"b":45,"c":37,"d":49,"e":61,"f":54,"g":11,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"MS","incomes":{"a":19,"b":50,"c":39,"d":39,"e":44,"f":33,"g":3,"naoInformado":2}}
+{"course":"ARQUITETURA E URBANISMO","state":"RR","incomes":{"a":4,"b":9,"c":4,"d":5,"e":14,"f":8,"g":1,"naoInformado":1}}
+{"course":"ARQUITETURA E URBANISMO","state":"AP","incomes":{"a":12,"b":9,"c":25,"d":27,"e":24,"f":18,"g":3,"naoInformado":2}}
+{"course":"ARQUITETURA E URBANISMO","state":"AC","incomes":{"a":6,"b":8,"c":22,"d":21,"e":20,"f":6,"g":1,"naoInformado":4}}
+{"course":"ARQUITETURA E URBANISMO","state":"TO","incomes":{"a":6,"b":11,"c":19,"d":14,"e":16,"f":13,"g":2,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"MG","incomes":{"a":59,"b":126,"c":84,"d":57,"e":70,"f":21,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"RS","incomes":{"a":54,"b":157,"c":175,"d":138,"e":163,"f":86,"g":2,"naoInformado":3}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"AL","incomes":{"a":13,"b":18,"c":11,"d":6,"e":3,"f":3,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"SP","incomes":{"a":269,"b":883,"c":1084,"d":825,"e":942,"f":455,"g":24,"naoInformado":2}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"SC","incomes":{"a":6,"b":23,"c":36,"d":17,"e":37,"f":17,"g":2,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"PE","incomes":{"a":13,"b":24,"c":29,"d":25,"e":18,"f":10,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"RJ","incomes":{"a":72,"b":233,"c":227,"d":150,"e":183,"f":128,"g":4,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"ES","incomes":{"a":10,"b":37,"c":21,"d":13,"e":11,"f":3,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"PR","incomes":{"a":266,"b":719,"c":584,"d":365,"e":363,"f":151,"g":12,"naoInformado":6}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"AM","incomes":{"a":2,"b":22,"c":28,"d":15,"e":17,"f":7,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"GO","incomes":{"a":22,"b":74,"c":29,"d":17,"e":22,"f":7,"g":0,"naoInformado":2}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"DF","incomes":{"a":27,"b":82,"c":67,"d":40,"e":62,"f":61,"g":11,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"PA","incomes":{"a":23,"b":36,"c":18,"d":11,"e":10,"f":3,"g":1,"naoInformado":3}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"MS","incomes":{"a":9,"b":23,"c":24,"d":11,"e":15,"f":3,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"BA","incomes":{"a":21,"b":38,"c":27,"d":20,"e":12,"f":4,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"SE","incomes":{"a":1,"b":3,"c":1,"d":0,"e":3,"f":3,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"CE","incomes":{"a":56,"b":115,"c":66,"d":43,"e":18,"f":11,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"MT","incomes":{"a":10,"b":20,"c":18,"d":6,"e":4,"f":3,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"RO","incomes":{"a":2,"b":6,"c":10,"d":5,"e":3,"f":0,"g":0,"naoInformado":0}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"MA","incomes":{"a":12,"b":17,"c":5,"d":4,"e":6,"f":2,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"TO","incomes":{"a":4,"b":2,"c":3,"d":4,"e":2,"f":4,"g":0,"naoInformado":2}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"PI","incomes":{"a":14,"b":25,"c":13,"d":7,"e":5,"f":3,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"RN","incomes":{"a":11,"b":10,"c":8,"d":5,"e":5,"f":1,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"PB","incomes":{"a":20,"b":18,"c":10,"d":11,"e":5,"f":4,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS","state":"RR","incomes":{"a":2,"b":8,"c":3,"d":4,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","state":"RS","incomes":{"a":3,"b":9,"c":19,"d":18,"e":26,"f":5,"g":1,"naoInformado":1}}
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","state":"MG","incomes":{"a":8,"b":33,"c":39,"d":24,"e":18,"f":5,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","state":"RJ","incomes":{"a":6,"b":15,"c":16,"d":9,"e":11,"f":2,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","state":"SP","incomes":{"a":40,"b":188,"c":221,"d":218,"e":202,"f":46,"g":2,"naoInformado":6}}
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","state":"PR","incomes":{"a":6,"b":46,"c":52,"d":68,"e":51,"f":26,"g":0,"naoInformado":2}}
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","state":"AM","incomes":{"a":0,"b":2,"c":2,"d":4,"e":4,"f":0,"g":0,"naoInformado":0}}
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","state":"GO","incomes":{"a":5,"b":18,"c":32,"d":19,"e":18,"f":6,"g":1,"naoInformado":1}}
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","state":"SC","incomes":{"a":7,"b":7,"c":20,"d":19,"e":11,"f":6,"g":1,"naoInformado":1}}
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","state":"PB","incomes":{"a":5,"b":15,"c":4,"d":2,"e":1,"f":1,"g":0,"naoInformado":2}}
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","state":"CE","incomes":{"a":5,"b":6,"c":4,"d":0,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","state":"MT","incomes":{"a":2,"b":2,"c":2,"d":1,"e":2,"f":3,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL","state":"SE","incomes":{"a":4,"b":7,"c":2,"d":0,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL","state":"PR","incomes":{"a":48,"b":186,"c":212,"d":164,"e":180,"f":47,"g":2,"naoInformado":2}}
+{"course":"TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL","state":"RS","incomes":{"a":3,"b":11,"c":20,"d":14,"e":17,"f":2,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL","state":"MG","incomes":{"a":27,"b":71,"c":57,"d":36,"e":19,"f":8,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL","state":"SP","incomes":{"a":42,"b":146,"c":228,"d":171,"e":133,"f":33,"g":1,"naoInformado":2}}
+{"course":"TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL","state":"RJ","incomes":{"a":3,"b":16,"c":12,"d":10,"e":8,"f":7,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL","state":"ES","incomes":{"a":0,"b":1,"c":1,"d":0,"e":3,"f":2,"g":0,"naoInformado":0}}
+{"course":"TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL","state":"SC","incomes":{"a":3,"b":15,"c":27,"d":37,"e":18,"f":4,"g":1,"naoInformado":1}}
+{"course":"TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL","state":"AM","incomes":{"a":17,"b":29,"c":14,"d":8,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL","state":"PE","incomes":{"a":7,"b":26,"c":24,"d":12,"e":14,"f":3,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL","state":"BA","incomes":{"a":2,"b":2,"c":0,"d":0,"e":3,"f":0,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"SP","incomes":{"a":71,"b":245,"c":282,"d":196,"e":203,"f":80,"g":5,"naoInformado":3}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"GO","incomes":{"a":17,"b":62,"c":46,"d":28,"e":25,"f":5,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"MG","incomes":{"a":18,"b":88,"c":73,"d":47,"e":40,"f":10,"g":0,"naoInformado":3}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"PE","incomes":{"a":25,"b":91,"c":58,"d":33,"e":25,"f":6,"g":1,"naoInformado":3}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"RJ","incomes":{"a":11,"b":45,"c":47,"d":35,"e":25,"f":17,"g":1,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"ES","incomes":{"a":9,"b":21,"c":18,"d":6,"e":16,"f":7,"g":1,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"RS","incomes":{"a":13,"b":40,"c":58,"d":49,"e":46,"f":24,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"AM","incomes":{"a":7,"b":11,"c":10,"d":7,"e":3,"f":2,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"DF","incomes":{"a":9,"b":43,"c":34,"d":29,"e":21,"f":13,"g":2,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"PB","incomes":{"a":2,"b":14,"c":26,"d":12,"e":16,"f":8,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"PR","incomes":{"a":12,"b":38,"c":45,"d":38,"e":20,"f":11,"g":2,"naoInformado":2}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"PA","incomes":{"a":23,"b":47,"c":32,"d":12,"e":10,"f":1,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"BA","incomes":{"a":39,"b":88,"c":49,"d":21,"e":17,"f":9,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"TO","incomes":{"a":0,"b":5,"c":7,"d":1,"e":3,"f":1,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"SC","incomes":{"a":7,"b":33,"c":47,"d":31,"e":33,"f":12,"g":1,"naoInformado":4}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"CE","incomes":{"a":44,"b":69,"c":33,"d":23,"e":19,"f":14,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"MS","incomes":{"a":3,"b":11,"c":4,"d":6,"e":3,"f":2,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"MT","incomes":{"a":17,"b":26,"c":32,"d":13,"e":13,"f":3,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"RN","incomes":{"a":15,"b":28,"c":17,"d":3,"e":11,"f":2,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"AL","incomes":{"a":4,"b":6,"c":2,"d":4,"e":6,"f":0,"g":0,"naoInformado":0}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"MA","incomes":{"a":8,"b":16,"c":6,"d":4,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"AP","incomes":{"a":22,"b":18,"c":11,"d":9,"e":5,"f":1,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"RO","incomes":{"a":2,"b":2,"c":9,"d":7,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"SE","incomes":{"a":0,"b":3,"c":1,"d":7,"e":2,"f":0,"g":0,"naoInformado":0}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"AC","incomes":{"a":8,"b":12,"c":7,"d":3,"e":2,"f":3,"g":1,"naoInformado":2}}
+{"course":"TECNOLOGIA EM REDES DE COMPUTADORES","state":"PI","incomes":{"a":2,"b":11,"c":7,"d":2,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"DF","incomes":{"a":1,"b":1,"c":1,"d":1,"e":6,"f":5,"g":3,"naoInformado":1}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"SE","incomes":{"a":1,"b":0,"c":0,"d":0,"e":0,"f":0,"g":0,"naoInformado":0}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"AM","incomes":{"a":2,"b":0,"c":0,"d":1,"e":0,"f":0,"g":0,"naoInformado":0}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"PI","incomes":{"a":12,"b":2,"c":3,"d":1,"e":1,"f":0,"g":0,"naoInformado":2}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"MG","incomes":{"a":4,"b":9,"c":8,"d":10,"e":10,"f":6,"g":1,"naoInformado":2}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"SP","incomes":{"a":5,"b":11,"c":14,"d":13,"e":11,"f":4,"g":2,"naoInformado":1}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"PR","incomes":{"a":9,"b":15,"c":13,"d":11,"e":17,"f":11,"g":2,"naoInformado":1}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"RS","incomes":{"a":3,"b":5,"c":4,"d":3,"e":6,"f":4,"g":1,"naoInformado":1}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"BA","incomes":{"a":1,"b":1,"c":2,"d":1,"e":2,"f":1,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"RJ","incomes":{"a":4,"b":4,"c":4,"d":3,"e":15,"f":18,"g":3,"naoInformado":1}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"RN","incomes":{"a":2,"b":2,"c":1,"d":0,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"ES","incomes":{"a":2,"b":5,"c":4,"d":1,"e":0,"f":0,"g":0,"naoInformado":0}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"AL","incomes":{"a":9,"b":3,"c":2,"d":1,"e":1,"f":1,"g":0,"naoInformado":0}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"PB","incomes":{"a":3,"b":2,"c":3,"d":1,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"PE","incomes":{"a":1,"b":1,"c":0,"d":0,"e":0,"f":0,"g":0,"naoInformado":0}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"CE","incomes":{"a":2,"b":1,"c":0,"d":0,"e":0,"f":1,"g":0,"naoInformado":0}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"GO","incomes":{"a":2,"b":5,"c":2,"d":2,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"SC","incomes":{"a":1,"b":0,"c":3,"d":0,"e":2,"f":1,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(BACHARELADO)","state":"RR","incomes":{"a":2,"b":3,"c":0,"d":0,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"MT","incomes":{"a":25,"b":30,"c":20,"d":15,"e":17,"f":2,"g":1,"naoInformado":2}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"DF","incomes":{"a":24,"b":43,"c":35,"d":17,"e":21,"f":23,"g":4,"naoInformado":1}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"SE","incomes":{"a":40,"b":43,"c":12,"d":9,"e":9,"f":2,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"AM","incomes":{"a":368,"b":261,"c":108,"d":49,"e":31,"f":10,"g":0,"naoInformado":5}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"PI","incomes":{"a":317,"b":293,"c":114,"d":42,"e":31,"f":13,"g":2,"naoInformado":6}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"MG","incomes":{"a":235,"b":378,"c":177,"d":93,"e":70,"f":28,"g":4,"naoInformado":2}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"SP","incomes":{"a":269,"b":719,"c":543,"d":293,"e":278,"f":104,"g":9,"naoInformado":5}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"PR","incomes":{"a":48,"b":167,"c":158,"d":85,"e":92,"f":16,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"RS","incomes":{"a":116,"b":251,"c":202,"d":91,"e":90,"f":15,"g":1,"naoInformado":1}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"BA","incomes":{"a":331,"b":424,"c":219,"d":98,"e":70,"f":19,"g":0,"naoInformado":6}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"CE","incomes":{"a":163,"b":141,"c":62,"d":29,"e":18,"f":1,"g":0,"naoInformado":4}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"SC","incomes":{"a":138,"b":251,"c":189,"d":123,"e":96,"f":41,"g":2,"naoInformado":8}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"GO","incomes":{"a":79,"b":129,"c":55,"d":31,"e":25,"f":8,"g":0,"naoInformado":2}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"RN","incomes":{"a":72,"b":53,"c":27,"d":13,"e":8,"f":4,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"PE","incomes":{"a":293,"b":246,"c":94,"d":45,"e":31,"f":7,"g":1,"naoInformado":4}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"ES","incomes":{"a":26,"b":38,"c":21,"d":20,"e":12,"f":3,"g":1,"naoInformado":2}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"RJ","incomes":{"a":107,"b":211,"c":165,"d":104,"e":127,"f":55,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"MA","incomes":{"a":46,"b":66,"c":32,"d":9,"e":4,"f":3,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"AC","incomes":{"a":13,"b":16,"c":5,"d":2,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"PB","incomes":{"a":141,"b":113,"c":54,"d":18,"e":9,"f":3,"g":0,"naoInformado":2}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"PA","incomes":{"a":269,"b":301,"c":153,"d":60,"e":34,"f":4,"g":1,"naoInformado":3}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"AL","incomes":{"a":126,"b":132,"c":66,"d":22,"e":9,"f":0,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"MS","incomes":{"a":31,"b":82,"c":45,"d":21,"e":9,"f":6,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"RO","incomes":{"a":41,"b":55,"c":25,"d":8,"e":6,"f":2,"g":0,"naoInformado":1}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"RR","incomes":{"a":14,"b":15,"c":5,"d":4,"e":1,"f":0,"g":0,"naoInformado":2}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"TO","incomes":{"a":51,"b":54,"c":32,"d":14,"e":7,"f":0,"g":0,"naoInformado":3}}
+{"course":"MATEMÁTICA(LICENCIATURA)","state":"AP","incomes":{"a":32,"b":33,"c":8,"d":10,"e":10,"f":5,"g":0,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","state":"DF","incomes":{"a":0,"b":8,"c":1,"d":3,"e":6,"f":9,"g":3,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","state":"MG","incomes":{"a":19,"b":34,"c":38,"d":20,"e":35,"f":14,"g":3,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","state":"PR","incomes":{"a":6,"b":10,"c":17,"d":9,"e":9,"f":5,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","state":"SP","incomes":{"a":17,"b":35,"c":28,"d":29,"e":38,"f":24,"g":2,"naoInformado":5}}
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","state":"CE","incomes":{"a":6,"b":6,"c":5,"d":2,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","state":"RJ","incomes":{"a":4,"b":18,"c":16,"d":15,"e":26,"f":20,"g":7,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","state":"BA","incomes":{"a":5,"b":9,"c":2,"d":3,"e":2,"f":2,"g":0,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","state":"RS","incomes":{"a":1,"b":4,"c":1,"d":0,"e":0,"f":1,"g":0,"naoInformado":0}}
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","state":"GO","incomes":{"a":18,"b":22,"c":15,"d":11,"e":10,"f":5,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","state":"SC","incomes":{"a":1,"b":4,"c":3,"d":5,"e":3,"f":1,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","state":"PA","incomes":{"a":0,"b":1,"c":3,"d":1,"e":2,"f":4,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(BACHARELADO)","state":"SE","incomes":{"a":1,"b":0,"c":0,"d":0,"e":0,"f":0,"g":0,"naoInformado":0}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"MT","incomes":{"a":40,"b":51,"c":27,"d":9,"e":6,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"DF","incomes":{"a":40,"b":77,"c":42,"d":37,"e":33,"f":36,"g":6,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"SE","incomes":{"a":74,"b":82,"c":28,"d":14,"e":13,"f":2,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"AM","incomes":{"a":137,"b":119,"c":56,"d":19,"e":22,"f":5,"g":0,"naoInformado":3}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"PI","incomes":{"a":255,"b":173,"c":50,"d":18,"e":14,"f":3,"g":0,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"MG","incomes":{"a":119,"b":218,"c":161,"d":80,"e":87,"f":32,"g":6,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"PR","incomes":{"a":351,"b":341,"c":172,"d":88,"e":68,"f":16,"g":2,"naoInformado":9}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"PE","incomes":{"a":99,"b":87,"c":45,"d":12,"e":15,"f":5,"g":3,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"RS","incomes":{"a":85,"b":176,"c":101,"d":49,"e":50,"f":19,"g":1,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"RJ","incomes":{"a":187,"b":348,"c":218,"d":124,"e":130,"f":58,"g":4,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"BA","incomes":{"a":709,"b":731,"c":333,"d":127,"e":70,"f":19,"g":1,"naoInformado":7}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"CE","incomes":{"a":237,"b":152,"c":49,"d":28,"e":14,"f":9,"g":1,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"SP","incomes":{"a":204,"b":323,"c":181,"d":104,"e":115,"f":52,"g":3,"naoInformado":7}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"RN","incomes":{"a":129,"b":95,"c":36,"d":21,"e":15,"f":5,"g":1,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"SC","incomes":{"a":166,"b":204,"c":146,"d":97,"e":81,"f":19,"g":1,"naoInformado":8}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"PA","incomes":{"a":344,"b":339,"c":144,"d":67,"e":33,"f":7,"g":3,"naoInformado":36}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"GO","incomes":{"a":33,"b":42,"c":22,"d":9,"e":4,"f":3,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"AC","incomes":{"a":20,"b":28,"c":6,"d":7,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"PB","incomes":{"a":288,"b":198,"c":59,"d":36,"e":18,"f":10,"g":0,"naoInformado":5}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"MA","incomes":{"a":213,"b":132,"c":26,"d":12,"e":8,"f":1,"g":0,"naoInformado":3}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"ES","incomes":{"a":44,"b":84,"c":36,"d":18,"e":21,"f":5,"g":0,"naoInformado":4}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"AL","incomes":{"a":156,"b":140,"c":41,"d":26,"e":15,"f":2,"g":1,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"MS","incomes":{"a":32,"b":38,"c":30,"d":7,"e":10,"f":5,"g":1,"naoInformado":3}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"RO","incomes":{"a":38,"b":42,"c":17,"d":4,"e":4,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"RR","incomes":{"a":44,"b":34,"c":17,"d":14,"e":7,"f":0,"g":0,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"TO","incomes":{"a":79,"b":62,"c":37,"d":5,"e":10,"f":1,"g":0,"naoInformado":3}}
+{"course":"LETRAS - PORTUGUÊS(LICENCIATURA)","state":"AP","incomes":{"a":36,"b":34,"c":27,"d":14,"e":8,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"MT","incomes":{"a":57,"b":71,"c":35,"d":23,"e":12,"f":4,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"SE","incomes":{"a":11,"b":11,"c":2,"d":4,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"AM","incomes":{"a":11,"b":16,"c":5,"d":2,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"PI","incomes":{"a":126,"b":101,"c":23,"d":15,"e":7,"f":2,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"SP","incomes":{"a":401,"b":881,"c":680,"d":355,"e":387,"f":164,"g":13,"naoInformado":11}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"MG","incomes":{"a":162,"b":261,"c":106,"d":81,"e":55,"f":26,"g":2,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"PR","incomes":{"a":74,"b":189,"c":153,"d":102,"e":80,"f":43,"g":1,"naoInformado":3}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"PE","incomes":{"a":247,"b":209,"c":92,"d":30,"e":28,"f":7,"g":0,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"RS","incomes":{"a":27,"b":95,"c":60,"d":44,"e":42,"f":19,"g":1,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"CE","incomes":{"a":44,"b":51,"c":31,"d":10,"e":3,"f":3,"g":0,"naoInformado":3}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"GO","incomes":{"a":172,"b":198,"c":97,"d":35,"e":20,"f":5,"g":1,"naoInformado":4}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"RN","incomes":{"a":52,"b":44,"c":20,"d":11,"e":10,"f":2,"g":0,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"SC","incomes":{"a":13,"b":46,"c":37,"d":27,"e":18,"f":7,"g":1,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"RJ","incomes":{"a":76,"b":210,"c":160,"d":105,"e":88,"f":38,"g":5,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"DF","incomes":{"a":57,"b":97,"c":44,"d":28,"e":28,"f":11,"g":2,"naoInformado":3}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"PA","incomes":{"a":104,"b":153,"c":60,"d":37,"e":15,"f":8,"g":4,"naoInformado":3}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"BA","incomes":{"a":50,"b":40,"c":29,"d":8,"e":11,"f":4,"g":0,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"MS","incomes":{"a":171,"b":185,"c":98,"d":48,"e":38,"f":11,"g":1,"naoInformado":12}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"MA","incomes":{"a":312,"b":291,"c":113,"d":37,"e":25,"f":5,"g":1,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"AC","incomes":{"a":6,"b":8,"c":1,"d":1,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"PB","incomes":{"a":21,"b":23,"c":10,"d":1,"e":2,"f":2,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"AL","incomes":{"a":9,"b":11,"c":10,"d":2,"e":2,"f":3,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"RO","incomes":{"a":16,"b":33,"c":12,"d":17,"e":7,"f":1,"g":0,"naoInformado":4}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"ES","incomes":{"a":21,"b":44,"c":16,"d":14,"e":6,"f":4,"g":0,"naoInformado":0}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"TO","incomes":{"a":14,"b":16,"c":6,"d":2,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"RR","incomes":{"a":0,"b":1,"c":1,"d":0,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)","state":"AP","incomes":{"a":32,"b":22,"c":12,"d":9,"e":16,"f":4,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"MT","incomes":{"a":19,"b":36,"c":15,"d":6,"e":5,"f":2,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"SE","incomes":{"a":279,"b":216,"c":83,"d":36,"e":28,"f":6,"g":0,"naoInformado":6}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"AM","incomes":{"a":24,"b":5,"c":4,"d":0,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"SP","incomes":{"a":62,"b":118,"c":84,"d":54,"e":63,"f":38,"g":1,"naoInformado":4}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"MG","incomes":{"a":19,"b":25,"c":41,"d":18,"e":22,"f":7,"g":2,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"PR","incomes":{"a":34,"b":116,"c":97,"d":50,"e":47,"f":8,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"PE","incomes":{"a":58,"b":53,"c":21,"d":6,"e":6,"f":3,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"RS","incomes":{"a":43,"b":81,"c":41,"d":15,"e":14,"f":3,"g":1,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"CE","incomes":{"a":21,"b":16,"c":12,"d":3,"e":4,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"RN","incomes":{"a":72,"b":38,"c":12,"d":9,"e":0,"f":1,"g":0,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"RJ","incomes":{"a":45,"b":66,"c":43,"d":28,"e":34,"f":12,"g":0,"naoInformado":2}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"PA","incomes":{"a":10,"b":5,"c":1,"d":1,"e":8,"f":4,"g":1,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"MA","incomes":{"a":35,"b":34,"c":13,"d":4,"e":7,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"AC","incomes":{"a":22,"b":18,"c":6,"d":4,"e":3,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"ES","incomes":{"a":0,"b":0,"c":2,"d":0,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"AL","incomes":{"a":6,"b":4,"c":2,"d":3,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"BA","incomes":{"a":15,"b":18,"c":4,"d":3,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"MS","incomes":{"a":45,"b":47,"c":26,"d":10,"e":15,"f":2,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"RO","incomes":{"a":9,"b":10,"c":5,"d":2,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"PI","incomes":{"a":109,"b":77,"c":43,"d":15,"e":11,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"RR","incomes":{"a":70,"b":43,"c":26,"d":18,"e":3,"f":4,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"AP","incomes":{"a":3,"b":7,"c":5,"d":1,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"DF","incomes":{"a":7,"b":1,"c":0,"d":0,"e":2,"f":1,"g":0,"naoInformado":0}}
+{"course":"LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)","state":"SC","incomes":{"a":2,"b":6,"c":6,"d":1,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"MT","incomes":{"a":0,"b":0,"c":2,"d":0,"e":0,"f":1,"g":0,"naoInformado":0}}
+{"course":"FÍSICA(BACHARELADO)","state":"DF","incomes":{"a":0,"b":0,"c":2,"d":2,"e":2,"f":1,"g":1,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"SE","incomes":{"a":2,"b":0,"c":1,"d":2,"e":2,"f":3,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"AM","incomes":{"a":1,"b":0,"c":1,"d":0,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"PI","incomes":{"a":3,"b":3,"c":2,"d":1,"e":1,"f":0,"g":0,"naoInformado":0}}
+{"course":"FÍSICA(BACHARELADO)","state":"MG","incomes":{"a":11,"b":18,"c":16,"d":16,"e":8,"f":11,"g":1,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"SP","incomes":{"a":6,"b":22,"c":42,"d":19,"e":33,"f":20,"g":1,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"PR","incomes":{"a":5,"b":10,"c":18,"d":4,"e":5,"f":3,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"RS","incomes":{"a":13,"b":17,"c":15,"d":12,"e":14,"f":8,"g":3,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"BA","incomes":{"a":5,"b":7,"c":6,"d":2,"e":4,"f":4,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"CE","incomes":{"a":3,"b":3,"c":3,"d":2,"e":6,"f":3,"g":1,"naoInformado":2}}
+{"course":"FÍSICA(BACHARELADO)","state":"RJ","incomes":{"a":2,"b":8,"c":14,"d":9,"e":8,"f":8,"g":2,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"MA","incomes":{"a":1,"b":1,"c":0,"d":0,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"PA","incomes":{"a":3,"b":0,"c":0,"d":3,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"RN","incomes":{"a":2,"b":1,"c":0,"d":1,"e":1,"f":2,"g":0,"naoInformado":0}}
+{"course":"FÍSICA(BACHARELADO)","state":"ES","incomes":{"a":1,"b":2,"c":2,"d":4,"e":2,"f":0,"g":1,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"AL","incomes":{"a":1,"b":0,"c":0,"d":0,"e":2,"f":1,"g":0,"naoInformado":0}}
+{"course":"FÍSICA(BACHARELADO)","state":"PB","incomes":{"a":4,"b":4,"c":2,"d":3,"e":2,"f":0,"g":1,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"PE","incomes":{"a":0,"b":1,"c":2,"d":1,"e":1,"f":2,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"GO","incomes":{"a":0,"b":3,"c":1,"d":0,"e":0,"f":1,"g":0,"naoInformado":0}}
+{"course":"FÍSICA(BACHARELADO)","state":"SC","incomes":{"a":0,"b":1,"c":3,"d":2,"e":3,"f":0,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(BACHARELADO)","state":"MS","incomes":{"a":1,"b":1,"c":3,"d":0,"e":2,"f":1,"g":0,"naoInformado":0}}
+{"course":"FÍSICA(BACHARELADO)","state":"RO","incomes":{"a":1,"b":0,"c":0,"d":0,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"MT","incomes":{"a":5,"b":9,"c":2,"d":3,"e":2,"f":0,"g":1,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"DF","incomes":{"a":2,"b":6,"c":3,"d":4,"e":12,"f":6,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"SE","incomes":{"a":5,"b":7,"c":1,"d":1,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"AM","incomes":{"a":22,"b":21,"c":8,"d":5,"e":2,"f":1,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"PI","incomes":{"a":98,"b":57,"c":27,"d":10,"e":3,"f":4,"g":0,"naoInformado":4}}
+{"course":"FÍSICA(LICENCIATURA)","state":"SP","incomes":{"a":24,"b":60,"c":65,"d":41,"e":49,"f":15,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"MG","incomes":{"a":35,"b":58,"c":63,"d":30,"e":32,"f":18,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"PR","incomes":{"a":5,"b":22,"c":28,"d":11,"e":20,"f":6,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"PE","incomes":{"a":48,"b":54,"c":30,"d":9,"e":14,"f":4,"g":1,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"RS","incomes":{"a":25,"b":42,"c":26,"d":15,"e":15,"f":8,"g":2,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"BA","incomes":{"a":28,"b":41,"c":14,"d":8,"e":15,"f":7,"g":1,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"CE","incomes":{"a":72,"b":77,"c":27,"d":17,"e":11,"f":2,"g":0,"naoInformado":2}}
+{"course":"FÍSICA(LICENCIATURA)","state":"SC","incomes":{"a":8,"b":26,"c":20,"d":9,"e":10,"f":6,"g":0,"naoInformado":2}}
+{"course":"FÍSICA(LICENCIATURA)","state":"GO","incomes":{"a":12,"b":23,"c":19,"d":14,"e":9,"f":5,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"RN","incomes":{"a":56,"b":48,"c":21,"d":15,"e":6,"f":3,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"RJ","incomes":{"a":22,"b":46,"c":33,"d":28,"e":32,"f":17,"g":2,"naoInformado":2}}
+{"course":"FÍSICA(LICENCIATURA)","state":"MA","incomes":{"a":19,"b":37,"c":15,"d":10,"e":6,"f":0,"g":0,"naoInformado":3}}
+{"course":"FÍSICA(LICENCIATURA)","state":"AC","incomes":{"a":19,"b":18,"c":5,"d":6,"e":4,"f":1,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"PB","incomes":{"a":22,"b":26,"c":12,"d":0,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"PA","incomes":{"a":79,"b":65,"c":22,"d":10,"e":5,"f":3,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"ES","incomes":{"a":2,"b":12,"c":16,"d":8,"e":4,"f":3,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"AL","incomes":{"a":37,"b":42,"c":16,"d":16,"e":6,"f":8,"g":0,"naoInformado":2}}
+{"course":"FÍSICA(LICENCIATURA)","state":"MS","incomes":{"a":2,"b":10,"c":5,"d":2,"e":3,"f":1,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"RO","incomes":{"a":20,"b":15,"c":6,"d":4,"e":2,"f":3,"g":0,"naoInformado":0}}
+{"course":"FÍSICA(LICENCIATURA)","state":"RR","incomes":{"a":5,"b":7,"c":8,"d":1,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"AP","incomes":{"a":6,"b":4,"c":7,"d":3,"e":2,"f":3,"g":0,"naoInformado":1}}
+{"course":"FÍSICA(LICENCIATURA)","state":"TO","incomes":{"a":16,"b":6,"c":8,"d":2,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"MT","incomes":{"a":5,"b":5,"c":5,"d":3,"e":4,"f":1,"g":0,"naoInformado":0}}
+{"course":"QUÍMICA(BACHARELADO)","state":"DF","incomes":{"a":1,"b":1,"c":3,"d":7,"e":7,"f":14,"g":3,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"SE","incomes":{"a":1,"b":7,"c":3,"d":0,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"AM","incomes":{"a":12,"b":9,"c":11,"d":2,"e":0,"f":1,"g":0,"naoInformado":0}}
+{"course":"QUÍMICA(BACHARELADO)","state":"PI","incomes":{"a":9,"b":10,"c":8,"d":7,"e":5,"f":0,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"MG","incomes":{"a":43,"b":88,"c":87,"d":79,"e":64,"f":30,"g":2,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"SP","incomes":{"a":63,"b":229,"c":298,"d":223,"e":240,"f":138,"g":8,"naoInformado":10}}
+{"course":"QUÍMICA(BACHARELADO)","state":"PR","incomes":{"a":17,"b":64,"c":70,"d":58,"e":70,"f":23,"g":4,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"RS","incomes":{"a":24,"b":78,"c":78,"d":63,"e":81,"f":31,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"BA","incomes":{"a":21,"b":20,"c":13,"d":10,"e":9,"f":4,"g":1,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"SC","incomes":{"a":7,"b":15,"c":21,"d":13,"e":13,"f":10,"g":1,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"CE","incomes":{"a":8,"b":11,"c":8,"d":4,"e":3,"f":2,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"RJ","incomes":{"a":20,"b":84,"c":72,"d":72,"e":66,"f":39,"g":7,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"GO","incomes":{"a":4,"b":6,"c":6,"d":7,"e":11,"f":3,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"MA","incomes":{"a":0,"b":2,"c":0,"d":0,"e":0,"f":0,"g":0,"naoInformado":0}}
+{"course":"QUÍMICA(BACHARELADO)","state":"PA","incomes":{"a":7,"b":3,"c":1,"d":2,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"RN","incomes":{"a":11,"b":24,"c":16,"d":11,"e":5,"f":5,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"ES","incomes":{"a":3,"b":10,"c":11,"d":11,"e":7,"f":3,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"AL","incomes":{"a":2,"b":6,"c":0,"d":2,"e":2,"f":0,"g":0,"naoInformado":2}}
+{"course":"QUÍMICA(BACHARELADO)","state":"PB","incomes":{"a":7,"b":11,"c":4,"d":7,"e":4,"f":0,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"PE","incomes":{"a":1,"b":1,"c":2,"d":3,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(BACHARELADO)","state":"MS","incomes":{"a":7,"b":14,"c":3,"d":6,"e":11,"f":3,"g":1,"naoInformado":0}}
+{"course":"QUÍMICA(BACHARELADO)","state":"TO","incomes":{"a":8,"b":5,"c":8,"d":1,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"MT","incomes":{"a":19,"b":27,"c":17,"d":4,"e":4,"f":1,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"DF","incomes":{"a":6,"b":10,"c":9,"d":7,"e":15,"f":13,"g":2,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"SE","incomes":{"a":35,"b":35,"c":10,"d":3,"e":4,"f":5,"g":1,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"AM","incomes":{"a":65,"b":53,"c":43,"d":10,"e":8,"f":5,"g":0,"naoInformado":2}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"PI","incomes":{"a":105,"b":91,"c":46,"d":13,"e":10,"f":4,"g":0,"naoInformado":3}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"MG","incomes":{"a":92,"b":148,"c":115,"d":67,"e":45,"f":15,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"SP","incomes":{"a":55,"b":189,"c":183,"d":117,"e":131,"f":31,"g":2,"naoInformado":6}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"PR","incomes":{"a":24,"b":78,"c":63,"d":56,"e":30,"f":18,"g":2,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"PE","incomes":{"a":79,"b":85,"c":36,"d":11,"e":18,"f":4,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"RS","incomes":{"a":27,"b":62,"c":48,"d":22,"e":23,"f":7,"g":1,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"BA","incomes":{"a":96,"b":124,"c":61,"d":50,"e":33,"f":8,"g":0,"naoInformado":3}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"CE","incomes":{"a":88,"b":102,"c":39,"d":24,"e":13,"f":4,"g":0,"naoInformado":2}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"SC","incomes":{"a":7,"b":11,"c":15,"d":8,"e":7,"f":4,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"GO","incomes":{"a":51,"b":97,"c":61,"d":31,"e":28,"f":8,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"RN","incomes":{"a":63,"b":62,"c":19,"d":11,"e":4,"f":2,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"RJ","incomes":{"a":23,"b":64,"c":51,"d":43,"e":60,"f":27,"g":0,"naoInformado":3}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"MA","incomes":{"a":148,"b":121,"c":39,"d":17,"e":13,"f":0,"g":0,"naoInformado":3}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"AC","incomes":{"a":22,"b":23,"c":11,"d":6,"e":3,"f":0,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"PB","incomes":{"a":71,"b":49,"c":20,"d":5,"e":2,"f":1,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"PA","incomes":{"a":41,"b":49,"c":42,"d":14,"e":9,"f":3,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"ES","incomes":{"a":12,"b":33,"c":16,"d":19,"e":13,"f":3,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"AL","incomes":{"a":81,"b":71,"c":29,"d":9,"e":10,"f":3,"g":0,"naoInformado":3}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"MS","incomes":{"a":11,"b":20,"c":12,"d":5,"e":5,"f":0,"g":0,"naoInformado":2}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"RO","incomes":{"a":13,"b":16,"c":11,"d":9,"e":3,"f":1,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"RR","incomes":{"a":21,"b":20,"c":3,"d":6,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"TO","incomes":{"a":20,"b":18,"c":8,"d":3,"e":5,"f":0,"g":0,"naoInformado":1}}
+{"course":"QUÍMICA(LICENCIATURA)","state":"AP","incomes":{"a":6,"b":7,"c":6,"d":3,"e":2,"f":2,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"DF","incomes":{"a":16,"b":29,"c":20,"d":22,"e":34,"f":35,"g":9,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"SE","incomes":{"a":3,"b":3,"c":4,"d":2,"e":1,"f":1,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"AM","incomes":{"a":26,"b":36,"c":9,"d":9,"e":8,"f":9,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"PI","incomes":{"a":5,"b":7,"c":3,"d":4,"e":2,"f":1,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"MG","incomes":{"a":79,"b":162,"c":144,"d":94,"e":99,"f":78,"g":6,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"SP","incomes":{"a":125,"b":319,"c":338,"d":275,"e":300,"f":157,"g":21,"naoInformado":2}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"PR","incomes":{"a":24,"b":86,"c":71,"d":58,"e":74,"f":36,"g":4,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"RS","incomes":{"a":42,"b":109,"c":94,"d":55,"e":63,"f":38,"g":2,"naoInformado":3}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"BA","incomes":{"a":62,"b":87,"c":50,"d":31,"e":21,"f":10,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"RN","incomes":{"a":25,"b":46,"c":25,"d":18,"e":18,"f":8,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"SC","incomes":{"a":22,"b":52,"c":43,"d":24,"e":26,"f":13,"g":4,"naoInformado":2}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"CE","incomes":{"a":48,"b":36,"c":18,"d":8,"e":8,"f":10,"g":4,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"RJ","incomes":{"a":119,"b":199,"c":151,"d":152,"e":146,"f":106,"g":10,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"PE","incomes":{"a":53,"b":79,"c":54,"d":40,"e":33,"f":20,"g":2,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"GO","incomes":{"a":27,"b":45,"c":25,"d":17,"e":11,"f":8,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"MS","incomes":{"a":11,"b":27,"c":17,"d":11,"e":19,"f":11,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"RO","incomes":{"a":16,"b":37,"c":22,"d":14,"e":10,"f":5,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"MA","incomes":{"a":2,"b":2,"c":2,"d":0,"e":2,"f":1,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"AC","incomes":{"a":16,"b":5,"c":2,"d":1,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"PB","incomes":{"a":16,"b":28,"c":16,"d":6,"e":5,"f":3,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"PA","incomes":{"a":3,"b":9,"c":4,"d":3,"e":3,"f":2,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"ES","incomes":{"a":37,"b":52,"c":47,"d":28,"e":40,"f":15,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"AL","incomes":{"a":20,"b":19,"c":13,"d":6,"e":17,"f":8,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"MT","incomes":{"a":8,"b":18,"c":9,"d":1,"e":3,"f":1,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"RR","incomes":{"a":0,"b":6,"c":2,"d":2,"e":2,"f":1,"g":0,"naoInformado":0}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"AP","incomes":{"a":8,"b":8,"c":4,"d":4,"e":4,"f":1,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(BACHARELADO)","state":"TO","incomes":{"a":5,"b":4,"c":4,"d":1,"e":2,"f":2,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"MT","incomes":{"a":81,"b":117,"c":51,"d":28,"e":22,"f":6,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"DF","incomes":{"a":26,"b":40,"c":35,"d":29,"e":33,"f":27,"g":4,"naoInformado":7}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"SE","incomes":{"a":40,"b":27,"c":28,"d":18,"e":8,"f":3,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"AM","incomes":{"a":234,"b":199,"c":70,"d":36,"e":33,"f":5,"g":1,"naoInformado":3}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"PI","incomes":{"a":417,"b":242,"c":69,"d":25,"e":16,"f":7,"g":1,"naoInformado":4}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"MG","incomes":{"a":368,"b":552,"c":321,"d":133,"e":120,"f":54,"g":3,"naoInformado":3}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"SP","incomes":{"a":324,"b":671,"c":467,"d":279,"e":292,"f":121,"g":5,"naoInformado":7}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"PR","incomes":{"a":75,"b":220,"c":134,"d":123,"e":82,"f":15,"g":1,"naoInformado":2}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"PE","incomes":{"a":335,"b":314,"c":110,"d":38,"e":30,"f":7,"g":2,"naoInformado":6}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"RS","incomes":{"a":123,"b":243,"c":153,"d":78,"e":51,"f":22,"g":1,"naoInformado":4}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"BA","incomes":{"a":358,"b":398,"c":168,"d":76,"e":68,"f":12,"g":1,"naoInformado":7}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"CE","incomes":{"a":152,"b":106,"c":49,"d":27,"e":16,"f":5,"g":2,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"GO","incomes":{"a":143,"b":256,"c":123,"d":59,"e":44,"f":14,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"RN","incomes":{"a":55,"b":57,"c":24,"d":15,"e":10,"f":3,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"SC","incomes":{"a":305,"b":365,"c":183,"d":103,"e":68,"f":17,"g":4,"naoInformado":5}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"RJ","incomes":{"a":207,"b":434,"c":259,"d":191,"e":169,"f":66,"g":2,"naoInformado":2}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"ES","incomes":{"a":52,"b":73,"c":41,"d":23,"e":25,"f":10,"g":1,"naoInformado":3}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"MS","incomes":{"a":70,"b":99,"c":64,"d":30,"e":20,"f":4,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"RO","incomes":{"a":59,"b":48,"c":23,"d":15,"e":6,"f":3,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"TO","incomes":{"a":92,"b":84,"c":35,"d":18,"e":19,"f":6,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"MA","incomes":{"a":108,"b":123,"c":58,"d":23,"e":24,"f":8,"g":1,"naoInformado":3}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"AC","incomes":{"a":23,"b":34,"c":19,"d":3,"e":8,"f":1,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"PB","incomes":{"a":175,"b":133,"c":47,"d":15,"e":16,"f":2,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"PA","incomes":{"a":191,"b":238,"c":101,"d":56,"e":45,"f":14,"g":7,"naoInformado":6}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"AL","incomes":{"a":229,"b":213,"c":58,"d":38,"e":30,"f":3,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"RR","incomes":{"a":26,"b":24,"c":14,"d":10,"e":2,"f":1,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS BIOLÓGICAS(LICENCIATURA)","state":"AP","incomes":{"a":49,"b":44,"c":39,"d":20,"e":10,"f":6,"g":0,"naoInformado":2}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"MT","incomes":{"a":224,"b":365,"c":148,"d":60,"e":39,"f":10,"g":1,"naoInformado":6}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"DF","incomes":{"a":450,"b":572,"c":307,"d":171,"e":152,"f":59,"g":5,"naoInformado":5}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"SE","incomes":{"a":505,"b":360,"c":108,"d":43,"e":24,"f":9,"g":3,"naoInformado":6}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"AM","incomes":{"a":686,"b":482,"c":170,"d":72,"e":39,"f":7,"g":3,"naoInformado":8}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"PI","incomes":{"a":1156,"b":745,"c":217,"d":79,"e":43,"f":9,"g":4,"naoInformado":1}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"MG","incomes":{"a":2156,"b":2921,"c":1331,"d":589,"e":360,"f":117,"g":6,"naoInformado":34}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"SP","incomes":{"a":6234,"b":11304,"c":6873,"d":3485,"e":2590,"f":853,"g":62,"naoInformado":87}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"PR","incomes":{"a":4901,"b":7046,"c":3749,"d":1719,"e":1077,"f":261,"g":14,"naoInformado":67}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"PE","incomes":{"a":1115,"b":872,"c":279,"d":86,"e":71,"f":19,"g":3,"naoInformado":6}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"RS","incomes":{"a":793,"b":1352,"c":794,"d":390,"e":232,"f":74,"g":5,"naoInformado":13}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"RJ","incomes":{"a":1097,"b":2104,"c":1224,"d":706,"e":588,"f":198,"g":11,"naoInformado":14}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"BA","incomes":{"a":2785,"b":2376,"c":782,"d":256,"e":103,"f":32,"g":8,"naoInformado":15}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"CE","incomes":{"a":547,"b":464,"c":139,"d":62,"e":39,"f":15,"g":2,"naoInformado":3}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"SC","incomes":{"a":1103,"b":1963,"c":1215,"d":652,"e":355,"f":95,"g":3,"naoInformado":26}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"GO","incomes":{"a":650,"b":933,"c":337,"d":130,"e":56,"f":15,"g":1,"naoInformado":4}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"RN","incomes":{"a":306,"b":272,"c":78,"d":33,"e":14,"f":7,"g":1,"naoInformado":3}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"ES","incomes":{"a":349,"b":519,"c":267,"d":116,"e":77,"f":10,"g":1,"naoInformado":1}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"PA","incomes":{"a":1170,"b":1256,"c":468,"d":154,"e":63,"f":17,"g":0,"naoInformado":7}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"MS","incomes":{"a":1969,"b":2881,"c":1414,"d":575,"e":303,"f":71,"g":8,"naoInformado":156}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"MA","incomes":{"a":1009,"b":797,"c":277,"d":118,"e":56,"f":13,"g":0,"naoInformado":17}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"AC","incomes":{"a":76,"b":50,"c":18,"d":10,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"PB","incomes":{"a":451,"b":297,"c":97,"d":39,"e":24,"f":6,"g":0,"naoInformado":6}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"AL","incomes":{"a":411,"b":424,"c":128,"d":42,"e":29,"f":4,"g":1,"naoInformado":2}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"RO","incomes":{"a":267,"b":340,"c":175,"d":60,"e":36,"f":6,"g":0,"naoInformado":2}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"TO","incomes":{"a":342,"b":249,"c":86,"d":37,"e":27,"f":11,"g":0,"naoInformado":6}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"RR","incomes":{"a":118,"b":75,"c":36,"d":12,"e":9,"f":1,"g":1,"naoInformado":3}}
+{"course":"PEDAGOGIA(LICENCIATURA)","state":"AP","incomes":{"a":124,"b":173,"c":151,"d":90,"e":64,"f":19,"g":1,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"DF","incomes":{"a":1,"b":2,"c":2,"d":3,"e":9,"f":15,"g":1,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"MG","incomes":{"a":12,"b":38,"c":23,"d":18,"e":17,"f":13,"g":3,"naoInformado":3}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"RS","incomes":{"a":14,"b":28,"c":27,"d":22,"e":26,"f":28,"g":1,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"SP","incomes":{"a":11,"b":42,"c":43,"d":26,"e":47,"f":18,"g":4,"naoInformado":3}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"PR","incomes":{"a":6,"b":7,"c":12,"d":8,"e":10,"f":5,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"BA","incomes":{"a":5,"b":3,"c":7,"d":2,"e":4,"f":0,"g":1,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"RJ","incomes":{"a":34,"b":53,"c":77,"d":49,"e":73,"f":78,"g":12,"naoInformado":2}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"MA","incomes":{"a":7,"b":11,"c":3,"d":4,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"AC","incomes":{"a":10,"b":3,"c":4,"d":2,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"PA","incomes":{"a":15,"b":17,"c":12,"d":7,"e":5,"f":5,"g":0,"naoInformado":3}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"RN","incomes":{"a":18,"b":30,"c":17,"d":3,"e":7,"f":6,"g":1,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"ES","incomes":{"a":6,"b":18,"c":16,"d":8,"e":9,"f":6,"g":1,"naoInformado":6}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"AL","incomes":{"a":12,"b":18,"c":5,"d":2,"e":5,"f":3,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"PE","incomes":{"a":14,"b":18,"c":15,"d":10,"e":10,"f":8,"g":1,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"CE","incomes":{"a":1,"b":3,"c":6,"d":1,"e":2,"f":1,"g":1,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"GO","incomes":{"a":4,"b":10,"c":6,"d":6,"e":10,"f":1,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"SC","incomes":{"a":5,"b":12,"c":13,"d":2,"e":8,"f":4,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"RO","incomes":{"a":2,"b":1,"c":0,"d":0,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"AP","incomes":{"a":18,"b":8,"c":2,"d":1,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"PB","incomes":{"a":7,"b":5,"c":2,"d":0,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"TO","incomes":{"a":4,"b":5,"c":2,"d":0,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(BACHARELADO)","state":"MS","incomes":{"a":0,"b":2,"c":3,"d":1,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"MT","incomes":{"a":49,"b":44,"c":17,"d":20,"e":14,"f":6,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"DF","incomes":{"a":26,"b":40,"c":30,"d":27,"e":33,"f":28,"g":6,"naoInformado":1}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"SE","incomes":{"a":297,"b":203,"c":80,"d":46,"e":48,"f":14,"g":0,"naoInformado":2}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"AM","incomes":{"a":83,"b":85,"c":41,"d":9,"e":9,"f":2,"g":0,"naoInformado":3}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"PI","incomes":{"a":287,"b":175,"c":57,"d":25,"e":16,"f":2,"g":0,"naoInformado":4}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"MG","incomes":{"a":204,"b":309,"c":187,"d":89,"e":84,"f":39,"g":4,"naoInformado":6}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"PR","incomes":{"a":689,"b":868,"c":547,"d":285,"e":232,"f":66,"g":6,"naoInformado":23}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"PE","incomes":{"a":270,"b":243,"c":95,"d":61,"e":45,"f":16,"g":3,"naoInformado":5}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"RS","incomes":{"a":87,"b":193,"c":131,"d":83,"e":73,"f":40,"g":1,"naoInformado":2}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"RJ","incomes":{"a":217,"b":412,"c":300,"d":181,"e":173,"f":84,"g":12,"naoInformado":3}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"SP","incomes":{"a":453,"b":853,"c":572,"d":335,"e":255,"f":110,"g":13,"naoInformado":9}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"BA","incomes":{"a":551,"b":607,"c":280,"d":152,"e":94,"f":27,"g":3,"naoInformado":8}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"CE","incomes":{"a":149,"b":127,"c":34,"d":18,"e":13,"f":3,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"SC","incomes":{"a":208,"b":292,"c":229,"d":134,"e":93,"f":35,"g":4,"naoInformado":5}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"GO","incomes":{"a":146,"b":200,"c":98,"d":48,"e":33,"f":14,"g":2,"naoInformado":3}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"RN","incomes":{"a":95,"b":81,"c":36,"d":15,"e":9,"f":11,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"ES","incomes":{"a":32,"b":60,"c":40,"d":22,"e":17,"f":9,"g":3,"naoInformado":4}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"MS","incomes":{"a":71,"b":80,"c":27,"d":18,"e":23,"f":3,"g":0,"naoInformado":2}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"MA","incomes":{"a":224,"b":243,"c":81,"d":37,"e":21,"f":1,"g":1,"naoInformado":5}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"AC","incomes":{"a":38,"b":25,"c":14,"d":5,"e":5,"f":1,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"PB","incomes":{"a":211,"b":142,"c":38,"d":16,"e":11,"f":6,"g":1,"naoInformado":1}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"PA","incomes":{"a":132,"b":143,"c":66,"d":30,"e":28,"f":3,"g":1,"naoInformado":1}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"AL","incomes":{"a":122,"b":90,"c":36,"d":19,"e":7,"f":1,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"RO","incomes":{"a":23,"b":28,"c":10,"d":2,"e":2,"f":0,"g":1,"naoInformado":1}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"RR","incomes":{"a":26,"b":33,"c":14,"d":6,"e":3,"f":2,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"AP","incomes":{"a":12,"b":28,"c":28,"d":16,"e":9,"f":6,"g":0,"naoInformado":1}}
+{"course":"HISTÓRIA(LICENCIATURA)","state":"TO","incomes":{"a":74,"b":58,"c":21,"d":13,"e":8,"f":2,"g":2,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"DF","incomes":{"a":6,"b":9,"c":14,"d":3,"e":5,"f":4,"g":0,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"SE","incomes":{"a":7,"b":13,"c":4,"d":3,"e":2,"f":1,"g":0,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"AM","incomes":{"a":5,"b":10,"c":8,"d":2,"e":1,"f":3,"g":0,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"PI","incomes":{"a":23,"b":17,"c":4,"d":5,"e":3,"f":1,"g":0,"naoInformado":5}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"PR","incomes":{"a":40,"b":75,"c":59,"d":55,"e":36,"f":18,"g":1,"naoInformado":4}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"RS","incomes":{"a":24,"b":35,"c":25,"d":21,"e":20,"f":10,"g":1,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"MG","incomes":{"a":25,"b":34,"c":19,"d":17,"e":21,"f":8,"g":0,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"SP","incomes":{"a":307,"b":655,"c":540,"d":350,"e":307,"f":97,"g":5,"naoInformado":8}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"CE","incomes":{"a":33,"b":23,"c":12,"d":4,"e":5,"f":3,"g":0,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"BA","incomes":{"a":28,"b":51,"c":27,"d":27,"e":18,"f":3,"g":0,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"SC","incomes":{"a":120,"b":273,"c":223,"d":127,"e":84,"f":7,"g":0,"naoInformado":3}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"PA","incomes":{"a":23,"b":38,"c":14,"d":7,"e":6,"f":1,"g":0,"naoInformado":2}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"RJ","incomes":{"a":32,"b":58,"c":33,"d":31,"e":21,"f":9,"g":0,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"MA","incomes":{"a":10,"b":17,"c":5,"d":4,"e":5,"f":0,"g":0,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"RN","incomes":{"a":7,"b":11,"c":2,"d":1,"e":4,"f":2,"g":0,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"ES","incomes":{"a":14,"b":23,"c":20,"d":12,"e":12,"f":7,"g":1,"naoInformado":2}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"PB","incomes":{"a":4,"b":4,"c":2,"d":2,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"PE","incomes":{"a":17,"b":36,"c":9,"d":6,"e":4,"f":1,"g":1,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"GO","incomes":{"a":6,"b":2,"c":3,"d":3,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"MS","incomes":{"a":10,"b":15,"c":7,"d":5,"e":9,"f":2,"g":0,"naoInformado":0}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"RO","incomes":{"a":1,"b":1,"c":2,"d":0,"e":1,"f":0,"g":0,"naoInformado":0}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"RR","incomes":{"a":1,"b":1,"c":1,"d":1,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"ARTES VISUAIS(LICENCIATURA)","state":"AP","incomes":{"a":31,"b":21,"c":16,"d":12,"e":6,"f":1,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"MT","incomes":{"a":3,"b":7,"c":3,"d":1,"e":5,"f":3,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"DF","incomes":{"a":2,"b":4,"c":3,"d":3,"e":11,"f":12,"g":4,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"SE","incomes":{"a":7,"b":7,"c":5,"d":4,"e":8,"f":1,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"AM","incomes":{"a":1,"b":6,"c":2,"d":2,"e":5,"f":0,"g":1,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"MG","incomes":{"a":49,"b":140,"c":93,"d":65,"e":69,"f":25,"g":3,"naoInformado":9}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"PR","incomes":{"a":19,"b":52,"c":58,"d":43,"e":34,"f":18,"g":2,"naoInformado":2}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"RS","incomes":{"a":24,"b":58,"c":48,"d":34,"e":23,"f":11,"g":1,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"SP","incomes":{"a":23,"b":60,"c":55,"d":52,"e":54,"f":22,"g":3,"naoInformado":2}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"BA","incomes":{"a":20,"b":28,"c":15,"d":10,"e":3,"f":5,"g":0,"naoInformado":2}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"CE","incomes":{"a":6,"b":16,"c":9,"d":4,"e":9,"f":1,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"SC","incomes":{"a":14,"b":26,"c":22,"d":15,"e":29,"f":14,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"RJ","incomes":{"a":19,"b":50,"c":42,"d":37,"e":51,"f":48,"g":9,"naoInformado":3}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"MA","incomes":{"a":0,"b":0,"c":0,"d":0,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"AC","incomes":{"a":16,"b":17,"c":8,"d":4,"e":4,"f":0,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"PA","incomes":{"a":5,"b":12,"c":7,"d":3,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"RN","incomes":{"a":31,"b":27,"c":9,"d":2,"e":7,"f":1,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"ES","incomes":{"a":5,"b":25,"c":30,"d":20,"e":18,"f":10,"g":1,"naoInformado":2}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"AL","incomes":{"a":29,"b":22,"c":12,"d":8,"e":9,"f":3,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"PB","incomes":{"a":7,"b":15,"c":6,"d":5,"e":3,"f":3,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"PE","incomes":{"a":19,"b":25,"c":24,"d":6,"e":5,"f":4,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"GO","incomes":{"a":8,"b":12,"c":9,"d":10,"e":3,"f":4,"g":1,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"MS","incomes":{"a":5,"b":8,"c":9,"d":5,"e":3,"f":2,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"RO","incomes":{"a":7,"b":12,"c":4,"d":3,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"RR","incomes":{"a":4,"b":5,"c":2,"d":3,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"AP","incomes":{"a":8,"b":14,"c":2,"d":7,"e":5,"f":0,"g":0,"naoInformado":2}}
+{"course":"GEOGRAFIA(BACHARELADO)","state":"TO","incomes":{"a":9,"b":7,"c":2,"d":3,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"MT","incomes":{"a":48,"b":35,"c":32,"d":15,"e":3,"f":2,"g":1,"naoInformado":1}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"DF","incomes":{"a":8,"b":15,"c":13,"d":8,"e":15,"f":7,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"SE","incomes":{"a":66,"b":48,"c":20,"d":16,"e":4,"f":3,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"AM","incomes":{"a":126,"b":68,"c":31,"d":20,"e":10,"f":6,"g":1,"naoInformado":3}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"PI","incomes":{"a":143,"b":89,"c":34,"d":15,"e":2,"f":2,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"SP","incomes":{"a":264,"b":595,"c":398,"d":221,"e":173,"f":56,"g":3,"naoInformado":4}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"MG","incomes":{"a":185,"b":280,"c":161,"d":76,"e":65,"f":28,"g":1,"naoInformado":6}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"PR","incomes":{"a":88,"b":262,"c":205,"d":107,"e":91,"f":28,"g":1,"naoInformado":3}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"RS","incomes":{"a":37,"b":84,"c":52,"d":23,"e":21,"f":10,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"BA","incomes":{"a":365,"b":376,"c":152,"d":63,"e":35,"f":11,"g":1,"naoInformado":3}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"CE","incomes":{"a":122,"b":95,"c":28,"d":10,"e":11,"f":2,"g":1,"naoInformado":4}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"SC","incomes":{"a":133,"b":145,"c":99,"d":64,"e":58,"f":15,"g":2,"naoInformado":4}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"GO","incomes":{"a":93,"b":160,"c":70,"d":21,"e":30,"f":6,"g":0,"naoInformado":2}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"RN","incomes":{"a":93,"b":60,"c":23,"d":13,"e":6,"f":1,"g":1,"naoInformado":1}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"PE","incomes":{"a":208,"b":204,"c":76,"d":38,"e":19,"f":7,"g":0,"naoInformado":2}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"RJ","incomes":{"a":114,"b":200,"c":121,"d":93,"e":84,"f":36,"g":5,"naoInformado":5}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"MA","incomes":{"a":47,"b":35,"c":15,"d":5,"e":3,"f":1,"g":0,"naoInformado":2}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"AC","incomes":{"a":15,"b":10,"c":4,"d":3,"e":1,"f":0,"g":1,"naoInformado":1}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"PB","incomes":{"a":193,"b":127,"c":34,"d":22,"e":6,"f":2,"g":0,"naoInformado":2}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"PA","incomes":{"a":125,"b":171,"c":75,"d":41,"e":21,"f":6,"g":0,"naoInformado":2}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"ES","incomes":{"a":12,"b":31,"c":26,"d":11,"e":11,"f":6,"g":0,"naoInformado":5}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"AL","incomes":{"a":160,"b":159,"c":53,"d":17,"e":6,"f":1,"g":0,"naoInformado":3}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"MS","incomes":{"a":54,"b":45,"c":40,"d":11,"e":10,"f":1,"g":0,"naoInformado":4}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"RO","incomes":{"a":2,"b":7,"c":2,"d":0,"e":0,"f":0,"g":0,"naoInformado":0}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"RR","incomes":{"a":23,"b":18,"c":12,"d":3,"e":7,"f":3,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"AP","incomes":{"a":20,"b":30,"c":23,"d":18,"e":13,"f":2,"g":0,"naoInformado":1}}
+{"course":"GEOGRAFIA(LICENCIATURA)","state":"TO","incomes":{"a":77,"b":67,"c":32,"d":12,"e":11,"f":1,"g":0,"naoInformado":3}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"MT","incomes":{"a":1,"b":0,"c":0,"d":0,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"DF","incomes":{"a":0,"b":0,"c":0,"d":1,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"MG","incomes":{"a":30,"b":38,"c":35,"d":21,"e":19,"f":19,"g":4,"naoInformado":2}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"SP","incomes":{"a":32,"b":41,"c":22,"d":12,"e":21,"f":25,"g":9,"naoInformado":4}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"PE","incomes":{"a":23,"b":14,"c":3,"d":3,"e":5,"f":1,"g":3,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"RS","incomes":{"a":31,"b":23,"c":24,"d":18,"e":20,"f":25,"g":1,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"RJ","incomes":{"a":30,"b":16,"c":14,"d":15,"e":19,"f":14,"g":1,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"CE","incomes":{"a":65,"b":40,"c":15,"d":8,"e":8,"f":2,"g":0,"naoInformado":3}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"SC","incomes":{"a":14,"b":29,"c":24,"d":26,"e":28,"f":28,"g":13,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"BA","incomes":{"a":8,"b":7,"c":5,"d":3,"e":3,"f":5,"g":3,"naoInformado":2}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"PA","incomes":{"a":6,"b":6,"c":4,"d":1,"e":0,"f":1,"g":1,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"RN","incomes":{"a":4,"b":6,"c":7,"d":3,"e":4,"f":4,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"PR","incomes":{"a":11,"b":9,"c":3,"d":1,"e":6,"f":2,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"ES","incomes":{"a":1,"b":3,"c":6,"d":4,"e":6,"f":6,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"PB","incomes":{"a":10,"b":5,"c":2,"d":2,"e":3,"f":0,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"GO","incomes":{"a":1,"b":6,"c":2,"d":2,"e":2,"f":3,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"RO","incomes":{"a":2,"b":3,"c":1,"d":0,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(BACHARELADO)","state":"AC","incomes":{"a":20,"b":11,"c":5,"d":3,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"MT","incomes":{"a":4,"b":4,"c":2,"d":1,"e":1,"f":0,"g":0,"naoInformado":0}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"DF","incomes":{"a":3,"b":4,"c":5,"d":3,"e":9,"f":9,"g":5,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"SE","incomes":{"a":11,"b":10,"c":1,"d":3,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"AM","incomes":{"a":12,"b":10,"c":6,"d":6,"e":4,"f":0,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"PI","incomes":{"a":107,"b":111,"c":41,"d":19,"e":15,"f":2,"g":0,"naoInformado":4}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"MG","incomes":{"a":43,"b":57,"c":24,"d":12,"e":10,"f":9,"g":1,"naoInformado":4}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"SP","incomes":{"a":137,"b":273,"c":160,"d":116,"e":115,"f":58,"g":8,"naoInformado":4}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"PR","incomes":{"a":68,"b":85,"c":71,"d":35,"e":36,"f":15,"g":3,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"PE","incomes":{"a":20,"b":14,"c":8,"d":5,"e":5,"f":4,"g":3,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"RS","incomes":{"a":40,"b":58,"c":41,"d":15,"e":8,"f":6,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"RJ","incomes":{"a":30,"b":29,"c":27,"d":16,"e":24,"f":15,"g":5,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"BA","incomes":{"a":90,"b":45,"c":24,"d":14,"e":6,"f":6,"g":2,"naoInformado":3}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"CE","incomes":{"a":64,"b":44,"c":14,"d":6,"e":3,"f":2,"g":1,"naoInformado":2}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"RN","incomes":{"a":32,"b":25,"c":14,"d":7,"e":1,"f":2,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"MS","incomes":{"a":4,"b":6,"c":6,"d":0,"e":0,"f":3,"g":1,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"GO","incomes":{"a":22,"b":30,"c":20,"d":6,"e":8,"f":4,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"MA","incomes":{"a":162,"b":144,"c":64,"d":24,"e":24,"f":4,"g":0,"naoInformado":2}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"PB","incomes":{"a":42,"b":49,"c":15,"d":8,"e":4,"f":3,"g":0,"naoInformado":2}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"PA","incomes":{"a":25,"b":39,"c":13,"d":14,"e":8,"f":1,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"ES","incomes":{"a":9,"b":5,"c":11,"d":5,"e":4,"f":1,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"AL","incomes":{"a":14,"b":13,"c":13,"d":7,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"SC","incomes":{"a":13,"b":26,"c":17,"d":11,"e":20,"f":8,"g":1,"naoInformado":2}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"RO","incomes":{"a":17,"b":15,"c":3,"d":1,"e":2,"f":3,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"TO","incomes":{"a":9,"b":8,"c":3,"d":1,"e":6,"f":2,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"RR","incomes":{"a":10,"b":3,"c":3,"d":1,"e":4,"f":0,"g":0,"naoInformado":1}}
+{"course":"FILOSOFIA(LICENCIATURA)","state":"AP","incomes":{"a":12,"b":3,"c":3,"d":5,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"MT","incomes":{"a":103,"b":135,"c":84,"d":56,"e":30,"f":18,"g":0,"naoInformado":8}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"DF","incomes":{"a":94,"b":203,"c":148,"d":90,"e":75,"f":70,"g":8,"naoInformado":1}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"SE","incomes":{"a":67,"b":82,"c":41,"d":35,"e":19,"f":6,"g":1,"naoInformado":2}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"AM","incomes":{"a":147,"b":190,"c":71,"d":40,"e":42,"f":7,"g":1,"naoInformado":4}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"PI","incomes":{"a":98,"b":66,"c":32,"d":17,"e":3,"f":1,"g":0,"naoInformado":1}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"MG","incomes":{"a":511,"b":925,"c":546,"d":267,"e":206,"f":82,"g":8,"naoInformado":11}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"SP","incomes":{"a":1243,"b":2400,"c":1447,"d":820,"e":615,"f":269,"g":24,"naoInformado":19}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"PR","incomes":{"a":230,"b":639,"c":445,"d":260,"e":219,"f":79,"g":7,"naoInformado":8}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"RS","incomes":{"a":228,"b":504,"c":297,"d":187,"e":144,"f":42,"g":2,"naoInformado":1}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"RJ","incomes":{"a":399,"b":567,"c":324,"d":201,"e":182,"f":79,"g":5,"naoInformado":7}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"BA","incomes":{"a":470,"b":535,"c":284,"d":126,"e":74,"f":19,"g":3,"naoInformado":8}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"CE","incomes":{"a":242,"b":267,"c":146,"d":74,"e":51,"f":27,"g":2,"naoInformado":4}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"SC","incomes":{"a":112,"b":327,"c":269,"d":167,"e":139,"f":39,"g":3,"naoInformado":9}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"GO","incomes":{"a":157,"b":330,"c":220,"d":132,"e":112,"f":34,"g":8,"naoInformado":2}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"RN","incomes":{"a":69,"b":74,"c":28,"d":14,"e":15,"f":7,"g":0,"naoInformado":1}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"PB","incomes":{"a":42,"b":52,"c":27,"d":16,"e":19,"f":4,"g":1,"naoInformado":2}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"MS","incomes":{"a":97,"b":162,"c":97,"d":43,"e":32,"f":8,"g":1,"naoInformado":1}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"PE","incomes":{"a":89,"b":110,"c":76,"d":43,"e":33,"f":14,"g":1,"naoInformado":1}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"RO","incomes":{"a":21,"b":26,"c":19,"d":9,"e":8,"f":2,"g":0,"naoInformado":1}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"PA","incomes":{"a":77,"b":111,"c":84,"d":40,"e":21,"f":7,"g":0,"naoInformado":1}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"TO","incomes":{"a":32,"b":40,"c":43,"d":17,"e":20,"f":4,"g":1,"naoInformado":1}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"MA","incomes":{"a":77,"b":110,"c":59,"d":36,"e":37,"f":13,"g":2,"naoInformado":5}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"AC","incomes":{"a":48,"b":64,"c":28,"d":16,"e":8,"f":1,"g":0,"naoInformado":4}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"ES","incomes":{"a":82,"b":180,"c":100,"d":73,"e":52,"f":23,"g":5,"naoInformado":3}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"AL","incomes":{"a":94,"b":109,"c":65,"d":54,"e":38,"f":16,"g":1,"naoInformado":1}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"AP","incomes":{"a":98,"b":77,"c":36,"d":38,"e":27,"f":11,"g":2,"naoInformado":1}}
+{"course":"EDUCAÇÃO FÍSICA(LICENCIATURA)","state":"RR","incomes":{"a":37,"b":41,"c":17,"d":13,"e":6,"f":1,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"MT","incomes":{"a":20,"b":27,"c":34,"d":13,"e":10,"f":8,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"DF","incomes":{"a":3,"b":13,"c":19,"d":24,"e":26,"f":52,"g":13,"naoInformado":2}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"SE","incomes":{"a":4,"b":4,"c":11,"d":13,"e":15,"f":9,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"AM","incomes":{"a":21,"b":40,"c":31,"d":25,"e":25,"f":18,"g":3,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"PI","incomes":{"a":25,"b":58,"c":32,"d":24,"e":24,"f":8,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"MG","incomes":{"a":54,"b":212,"c":223,"d":168,"e":193,"f":145,"g":14,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"SP","incomes":{"a":118,"b":426,"c":579,"d":426,"e":522,"f":323,"g":32,"naoInformado":2}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"PR","incomes":{"a":9,"b":57,"c":63,"d":52,"e":71,"f":43,"g":8,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"PE","incomes":{"a":14,"b":57,"c":77,"d":56,"e":62,"f":73,"g":10,"naoInformado":4}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"RS","incomes":{"a":45,"b":142,"c":155,"d":172,"e":190,"f":147,"g":17,"naoInformado":2}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"BA","incomes":{"a":24,"b":43,"c":45,"d":28,"e":35,"f":18,"g":4,"naoInformado":2}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"CE","incomes":{"a":26,"b":32,"c":52,"d":39,"e":58,"f":43,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"SC","incomes":{"a":29,"b":79,"c":107,"d":74,"e":120,"f":62,"g":7,"naoInformado":2}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"RN","incomes":{"a":20,"b":41,"c":26,"d":12,"e":25,"f":6,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"RJ","incomes":{"a":32,"b":99,"c":135,"d":83,"e":165,"f":137,"g":14,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"ES","incomes":{"a":3,"b":22,"c":15,"d":17,"e":25,"f":16,"g":5,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"GO","incomes":{"a":10,"b":34,"c":42,"d":25,"e":19,"f":15,"g":3,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"PB","incomes":{"a":15,"b":22,"c":36,"d":27,"e":28,"f":26,"g":3,"naoInformado":2}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"PA","incomes":{"a":12,"b":25,"c":11,"d":11,"e":8,"f":10,"g":5,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"TO","incomes":{"a":9,"b":20,"c":20,"d":10,"e":4,"f":5,"g":1,"naoInformado":2}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"MA","incomes":{"a":10,"b":26,"c":18,"d":16,"e":14,"f":8,"g":2,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"AL","incomes":{"a":16,"b":37,"c":33,"d":7,"e":22,"f":15,"g":2,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"MS","incomes":{"a":11,"b":23,"c":26,"d":13,"e":16,"f":7,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"RO","incomes":{"a":3,"b":7,"c":8,"d":5,"e":6,"f":7,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)","state":"RR","incomes":{"a":4,"b":9,"c":7,"d":2,"e":4,"f":3,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"DF","incomes":{"a":1,"b":4,"c":2,"d":1,"e":5,"f":11,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"RS","incomes":{"a":3,"b":12,"c":11,"d":5,"e":6,"f":1,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"CE","incomes":{"a":16,"b":7,"c":2,"d":4,"e":0,"f":0,"g":0,"naoInformado":0}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"BA","incomes":{"a":40,"b":37,"c":41,"d":20,"e":11,"f":5,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"GO","incomes":{"a":3,"b":6,"c":7,"d":5,"e":2,"f":2,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"SP","incomes":{"a":6,"b":28,"c":19,"d":18,"e":19,"f":11,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"RJ","incomes":{"a":4,"b":9,"c":9,"d":7,"e":5,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"SE","incomes":{"a":64,"b":78,"c":36,"d":11,"e":15,"f":0,"g":0,"naoInformado":3}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"PE","incomes":{"a":42,"b":37,"c":28,"d":9,"e":13,"f":4,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"PB","incomes":{"a":36,"b":38,"c":14,"d":6,"e":4,"f":2,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"MG","incomes":{"a":3,"b":7,"c":12,"d":8,"e":14,"f":2,"g":0,"naoInformado":0}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"PR","incomes":{"a":0,"b":1,"c":0,"d":1,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"RN","incomes":{"a":1,"b":3,"c":1,"d":2,"e":1,"f":1,"g":0,"naoInformado":0}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"PA","incomes":{"a":60,"b":97,"c":74,"d":39,"e":27,"f":4,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"MA","incomes":{"a":63,"b":52,"c":18,"d":9,"e":7,"f":1,"g":0,"naoInformado":4}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"MT","incomes":{"a":8,"b":33,"c":14,"d":9,"e":5,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"PI","incomes":{"a":18,"b":27,"c":11,"d":4,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"MS","incomes":{"a":1,"b":5,"c":1,"d":5,"e":1,"f":0,"g":0,"naoInformado":0}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"AM","incomes":{"a":15,"b":13,"c":10,"d":5,"e":1,"f":1,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"ES","incomes":{"a":15,"b":38,"c":34,"d":18,"e":16,"f":1,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"TO","incomes":{"a":26,"b":28,"c":14,"d":9,"e":8,"f":3,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)","state":"AP","incomes":{"a":5,"b":9,"c":11,"d":5,"e":9,"f":4,"g":0,"naoInformado":0}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"MT","incomes":{"a":13,"b":49,"c":51,"d":28,"e":14,"f":22,"g":1,"naoInformado":3}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"SE","incomes":{"a":5,"b":16,"c":9,"d":14,"e":14,"f":8,"g":1,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"AM","incomes":{"a":26,"b":50,"c":40,"d":32,"e":25,"f":12,"g":1,"naoInformado":2}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"PI","incomes":{"a":45,"b":68,"c":36,"d":24,"e":11,"f":6,"g":1,"naoInformado":3}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"MG","incomes":{"a":148,"b":531,"c":546,"d":410,"e":374,"f":166,"g":11,"naoInformado":4}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"SP","incomes":{"a":165,"b":590,"c":789,"d":599,"e":663,"f":474,"g":48,"naoInformado":7}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"PR","incomes":{"a":29,"b":137,"c":147,"d":136,"e":175,"f":88,"g":5,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"RS","incomes":{"a":28,"b":106,"c":153,"d":139,"e":174,"f":107,"g":11,"naoInformado":3}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"RJ","incomes":{"a":58,"b":197,"c":207,"d":176,"e":211,"f":135,"g":13,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"BA","incomes":{"a":50,"b":128,"c":116,"d":83,"e":80,"f":36,"g":1,"naoInformado":4}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"SC","incomes":{"a":26,"b":134,"c":203,"d":193,"e":177,"f":113,"g":9,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"GO","incomes":{"a":38,"b":100,"c":93,"d":64,"e":54,"f":26,"g":2,"naoInformado":2}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"ES","incomes":{"a":5,"b":43,"c":30,"d":30,"e":32,"f":9,"g":0,"naoInformado":2}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"DF","incomes":{"a":51,"b":159,"c":119,"d":115,"e":125,"f":96,"g":6,"naoInformado":3}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"PE","incomes":{"a":56,"b":167,"c":121,"d":85,"e":68,"f":34,"g":2,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"RO","incomes":{"a":23,"b":39,"c":50,"d":27,"e":19,"f":13,"g":1,"naoInformado":3}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"PA","incomes":{"a":47,"b":85,"c":55,"d":27,"e":32,"f":18,"g":3,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"TO","incomes":{"a":9,"b":34,"c":24,"d":16,"e":15,"f":8,"g":0,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"AC","incomes":{"a":8,"b":21,"c":13,"d":13,"e":11,"f":3,"g":1,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"RN","incomes":{"a":9,"b":32,"c":21,"d":13,"e":10,"f":8,"g":0,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"AL","incomes":{"a":12,"b":44,"c":34,"d":35,"e":28,"f":16,"g":2,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"PB","incomes":{"a":14,"b":25,"c":18,"d":13,"e":10,"f":11,"g":0,"naoInformado":4}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"CE","incomes":{"a":47,"b":96,"c":43,"d":41,"e":57,"f":21,"g":2,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"MA","incomes":{"a":15,"b":34,"c":36,"d":23,"e":22,"f":7,"g":2,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"MS","incomes":{"a":15,"b":30,"c":27,"d":25,"e":13,"f":3,"g":0,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"AP","incomes":{"a":1,"b":4,"c":8,"d":13,"e":4,"f":3,"g":0,"naoInformado":1}}
+{"course":"SISTEMAS DE INFORMAÇÃO","state":"RR","incomes":{"a":5,"b":13,"c":7,"d":3,"e":7,"f":5,"g":0,"naoInformado":2}}
+{"course":"MÚSICA(LICENCIATURA)","state":"MT","incomes":{"a":5,"b":1,"c":2,"d":4,"e":2,"f":1,"g":0,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"DF","incomes":{"a":4,"b":6,"c":13,"d":15,"e":11,"f":2,"g":1,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"SE","incomes":{"a":10,"b":9,"c":4,"d":4,"e":8,"f":0,"g":0,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"AM","incomes":{"a":2,"b":2,"c":3,"d":4,"e":3,"f":1,"g":0,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"PI","incomes":{"a":2,"b":8,"c":10,"d":0,"e":3,"f":0,"g":1,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"MG","incomes":{"a":40,"b":103,"c":68,"d":51,"e":42,"f":15,"g":2,"naoInformado":2}}
+{"course":"MÚSICA(LICENCIATURA)","state":"SP","incomes":{"a":96,"b":217,"c":168,"d":129,"e":109,"f":57,"g":1,"naoInformado":3}}
+{"course":"MÚSICA(LICENCIATURA)","state":"PR","incomes":{"a":7,"b":32,"c":33,"d":28,"e":26,"f":7,"g":0,"naoInformado":2}}
+{"course":"MÚSICA(LICENCIATURA)","state":"RS","incomes":{"a":19,"b":35,"c":28,"d":14,"e":14,"f":12,"g":1,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"CE","incomes":{"a":12,"b":23,"c":11,"d":6,"e":6,"f":4,"g":2,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"SC","incomes":{"a":3,"b":13,"c":14,"d":9,"e":13,"f":9,"g":0,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"RN","incomes":{"a":15,"b":19,"c":7,"d":6,"e":3,"f":3,"g":1,"naoInformado":2}}
+{"course":"MÚSICA(LICENCIATURA)","state":"RJ","incomes":{"a":11,"b":18,"c":19,"d":9,"e":10,"f":11,"g":1,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"BA","incomes":{"a":25,"b":31,"c":28,"d":12,"e":10,"f":7,"g":0,"naoInformado":2}}
+{"course":"MÚSICA(LICENCIATURA)","state":"ES","incomes":{"a":12,"b":15,"c":24,"d":13,"e":18,"f":4,"g":0,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"MA","incomes":{"a":12,"b":14,"c":9,"d":3,"e":7,"f":3,"g":0,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"AC","incomes":{"a":2,"b":3,"c":4,"d":0,"e":2,"f":0,"g":0,"naoInformado":0}}
+{"course":"MÚSICA(LICENCIATURA)","state":"PA","incomes":{"a":3,"b":21,"c":9,"d":4,"e":8,"f":0,"g":0,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"AL","incomes":{"a":2,"b":2,"c":5,"d":6,"e":2,"f":0,"g":0,"naoInformado":2}}
+{"course":"MÚSICA(LICENCIATURA)","state":"PB","incomes":{"a":18,"b":13,"c":8,"d":8,"e":4,"f":2,"g":0,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"PE","incomes":{"a":10,"b":11,"c":10,"d":7,"e":7,"f":4,"g":0,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"GO","incomes":{"a":7,"b":29,"c":21,"d":14,"e":17,"f":9,"g":1,"naoInformado":1}}
+{"course":"MÚSICA(LICENCIATURA)","state":"MS","incomes":{"a":0,"b":4,"c":2,"d":6,"e":2,"f":2,"g":0,"naoInformado":0}}
+{"course":"MÚSICA(LICENCIATURA)","state":"RO","incomes":{"a":2,"b":3,"c":1,"d":2,"e":3,"f":1,"g":0,"naoInformado":0}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"MT","incomes":{"a":0,"b":0,"c":1,"d":1,"e":2,"f":0,"g":0,"naoInformado":0}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"DF","incomes":{"a":6,"b":6,"c":6,"d":15,"e":30,"f":45,"g":11,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"SE","incomes":{"a":3,"b":7,"c":1,"d":5,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"AM","incomes":{"a":7,"b":10,"c":5,"d":2,"e":2,"f":2,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"PI","incomes":{"a":5,"b":6,"c":4,"d":1,"e":1,"f":1,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"SP","incomes":{"a":39,"b":106,"c":92,"d":87,"e":81,"f":83,"g":25,"naoInformado":9}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"MG","incomes":{"a":33,"b":55,"c":27,"d":35,"e":35,"f":24,"g":4,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"PR","incomes":{"a":6,"b":32,"c":19,"d":13,"e":23,"f":14,"g":4,"naoInformado":3}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"RS","incomes":{"a":18,"b":42,"c":34,"d":25,"e":26,"f":16,"g":7,"naoInformado":2}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"CE","incomes":{"a":32,"b":34,"c":15,"d":9,"e":11,"f":4,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"RN","incomes":{"a":7,"b":18,"c":12,"d":2,"e":10,"f":2,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"PA","incomes":{"a":29,"b":38,"c":14,"d":7,"e":12,"f":8,"g":3,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"RJ","incomes":{"a":25,"b":55,"c":33,"d":43,"e":53,"f":53,"g":10,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"MA","incomes":{"a":0,"b":5,"c":4,"d":1,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"AC","incomes":{"a":9,"b":17,"c":10,"d":6,"e":2,"f":0,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"ES","incomes":{"a":4,"b":10,"c":7,"d":6,"e":8,"f":4,"g":2,"naoInformado":3}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"AL","incomes":{"a":7,"b":14,"c":8,"d":3,"e":5,"f":2,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"BA","incomes":{"a":19,"b":22,"c":9,"d":6,"e":8,"f":9,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"PB","incomes":{"a":18,"b":12,"c":5,"d":2,"e":3,"f":0,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"PE","incomes":{"a":17,"b":24,"c":18,"d":14,"e":22,"f":14,"g":2,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"GO","incomes":{"a":5,"b":14,"c":10,"d":9,"e":5,"f":1,"g":0,"naoInformado":3}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"SC","incomes":{"a":6,"b":11,"c":7,"d":6,"e":6,"f":10,"g":1,"naoInformado":2}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"MS","incomes":{"a":5,"b":12,"c":9,"d":6,"e":2,"f":5,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"RO","incomes":{"a":2,"b":3,"c":1,"d":0,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"RR","incomes":{"a":3,"b":4,"c":3,"d":2,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(BACHARELADO)","state":"AP","incomes":{"a":19,"b":18,"c":11,"d":10,"e":5,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"MT","incomes":{"a":0,"b":1,"c":0,"d":0,"e":1,"f":0,"g":0,"naoInformado":0}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"DF","incomes":{"a":2,"b":2,"c":7,"d":4,"e":9,"f":12,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"SE","incomes":{"a":4,"b":2,"c":1,"d":3,"e":3,"f":0,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"PI","incomes":{"a":4,"b":16,"c":10,"d":4,"e":4,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"MG","incomes":{"a":42,"b":58,"c":41,"d":23,"e":13,"f":12,"g":2,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"PR","incomes":{"a":29,"b":66,"c":59,"d":24,"e":31,"f":10,"g":2,"naoInformado":2}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"RS","incomes":{"a":12,"b":31,"c":32,"d":14,"e":16,"f":10,"g":1,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"SP","incomes":{"a":65,"b":159,"c":150,"d":87,"e":86,"f":33,"g":4,"naoInformado":8}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"BA","incomes":{"a":23,"b":42,"c":34,"d":20,"e":17,"f":6,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"CE","incomes":{"a":22,"b":28,"c":7,"d":3,"e":3,"f":0,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"RN","incomes":{"a":13,"b":24,"c":8,"d":4,"e":7,"f":4,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"SC","incomes":{"a":20,"b":34,"c":43,"d":28,"e":21,"f":10,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"RJ","incomes":{"a":43,"b":64,"c":47,"d":28,"e":25,"f":18,"g":2,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"PA","incomes":{"a":90,"b":117,"c":59,"d":24,"e":14,"f":5,"g":1,"naoInformado":4}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"MA","incomes":{"a":10,"b":12,"c":9,"d":2,"e":4,"f":3,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"ES","incomes":{"a":1,"b":7,"c":2,"d":2,"e":3,"f":2,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"AL","incomes":{"a":22,"b":20,"c":4,"d":2,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"PB","incomes":{"a":44,"b":31,"c":7,"d":6,"e":1,"f":5,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"PE","incomes":{"a":5,"b":8,"c":5,"d":1,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"GO","incomes":{"a":3,"b":2,"c":7,"d":2,"e":2,"f":3,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"MS","incomes":{"a":22,"b":30,"c":13,"d":9,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"RO","incomes":{"a":8,"b":7,"c":4,"d":2,"e":2,"f":2,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"TO","incomes":{"a":26,"b":23,"c":6,"d":3,"e":2,"f":1,"g":0,"naoInformado":2}}
+{"course":"CIÊNCIAS SOCIAIS(LICENCIATURA)","state":"RR","incomes":{"a":13,"b":13,"c":6,"d":3,"e":0,"f":0,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"MT","incomes":{"a":24,"b":84,"c":94,"d":81,"e":106,"f":78,"g":8,"naoInformado":3}}
+{"course":"ENGENHARIA CIVIL","state":"DF","incomes":{"a":21,"b":53,"c":80,"d":82,"e":140,"f":176,"g":67,"naoInformado":2}}
+{"course":"ENGENHARIA CIVIL","state":"SE","incomes":{"a":8,"b":23,"c":33,"d":35,"e":52,"f":39,"g":6,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"AM","incomes":{"a":31,"b":60,"c":61,"d":51,"e":87,"f":51,"g":19,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"PI","incomes":{"a":8,"b":19,"c":23,"d":21,"e":24,"f":36,"g":15,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"MG","incomes":{"a":250,"b":788,"c":873,"d":704,"e":854,"f":744,"g":156,"naoInformado":6}}
+{"course":"ENGENHARIA CIVIL","state":"SP","incomes":{"a":151,"b":617,"c":922,"d":872,"e":1281,"f":1009,"g":222,"naoInformado":8}}
+{"course":"ENGENHARIA CIVIL","state":"PR","incomes":{"a":44,"b":143,"c":196,"d":224,"e":343,"f":306,"g":83,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"PE","incomes":{"a":24,"b":74,"c":70,"d":87,"e":119,"f":107,"g":27,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"RS","incomes":{"a":62,"b":150,"c":232,"d":176,"e":277,"f":246,"g":35,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"RJ","incomes":{"a":57,"b":174,"c":243,"d":229,"e":266,"f":318,"g":81,"naoInformado":3}}
+{"course":"ENGENHARIA CIVIL","state":"BA","incomes":{"a":89,"b":185,"c":186,"d":173,"e":198,"f":210,"g":48,"naoInformado":12}}
+{"course":"ENGENHARIA CIVIL","state":"SC","incomes":{"a":44,"b":133,"c":183,"d":154,"e":241,"f":203,"g":43,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"GO","incomes":{"a":46,"b":157,"c":168,"d":169,"e":202,"f":207,"g":46,"naoInformado":2}}
+{"course":"ENGENHARIA CIVIL","state":"CE","incomes":{"a":28,"b":42,"c":52,"d":47,"e":102,"f":102,"g":23,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"PA","incomes":{"a":42,"b":58,"c":65,"d":43,"e":64,"f":41,"g":15,"naoInformado":3}}
+{"course":"ENGENHARIA CIVIL","state":"TO","incomes":{"a":20,"b":30,"c":50,"d":42,"e":68,"f":28,"g":7,"naoInformado":2}}
+{"course":"ENGENHARIA CIVIL","state":"AC","incomes":{"a":0,"b":3,"c":6,"d":6,"e":9,"f":11,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"PB","incomes":{"a":22,"b":36,"c":32,"d":28,"e":26,"f":32,"g":5,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"MA","incomes":{"a":7,"b":38,"c":34,"d":47,"e":52,"f":60,"g":13,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"RN","incomes":{"a":32,"b":84,"c":78,"d":80,"e":79,"f":69,"g":11,"naoInformado":2}}
+{"course":"ENGENHARIA CIVIL","state":"ES","incomes":{"a":17,"b":49,"c":55,"d":61,"e":76,"f":83,"g":17,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"AL","incomes":{"a":13,"b":22,"c":26,"d":37,"e":54,"f":56,"g":19,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"MS","incomes":{"a":15,"b":47,"c":46,"d":26,"e":41,"f":35,"g":8,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"RO","incomes":{"a":2,"b":11,"c":22,"d":26,"e":40,"f":40,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA CIVIL","state":"RR","incomes":{"a":8,"b":8,"c":7,"d":8,"e":6,"f":6,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"MT","incomes":{"a":9,"b":16,"c":19,"d":28,"e":35,"f":24,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"DF","incomes":{"a":7,"b":52,"c":47,"d":40,"e":74,"f":67,"g":22,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"SE","incomes":{"a":5,"b":13,"c":7,"d":13,"e":12,"f":20,"g":0,"naoInformado":3}}
+{"course":"ENGENHARIA ELÉTRICA","state":"AM","incomes":{"a":10,"b":32,"c":46,"d":33,"e":34,"f":21,"g":4,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"PI","incomes":{"a":7,"b":11,"c":5,"d":14,"e":7,"f":8,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"MG","incomes":{"a":89,"b":328,"c":417,"d":386,"e":503,"f":300,"g":35,"naoInformado":2}}
+{"course":"ENGENHARIA ELÉTRICA","state":"SP","incomes":{"a":69,"b":288,"c":508,"d":520,"e":797,"f":493,"g":55,"naoInformado":6}}
+{"course":"ENGENHARIA ELÉTRICA","state":"PR","incomes":{"a":25,"b":73,"c":135,"d":124,"e":211,"f":131,"g":15,"naoInformado":2}}
+{"course":"ENGENHARIA ELÉTRICA","state":"RS","incomes":{"a":30,"b":62,"c":95,"d":102,"e":141,"f":100,"g":13,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"RJ","incomes":{"a":32,"b":81,"c":105,"d":101,"e":157,"f":164,"g":25,"naoInformado":2}}
+{"course":"ENGENHARIA ELÉTRICA","state":"SC","incomes":{"a":12,"b":36,"c":50,"d":85,"e":113,"f":69,"g":10,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"BA","incomes":{"a":29,"b":77,"c":79,"d":88,"e":102,"f":65,"g":9,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"PE","incomes":{"a":8,"b":26,"c":46,"d":48,"e":90,"f":62,"g":10,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"GO","incomes":{"a":7,"b":49,"c":52,"d":31,"e":73,"f":48,"g":4,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"MA","incomes":{"a":4,"b":24,"c":24,"d":8,"e":18,"f":17,"g":2,"naoInformado":3}}
+{"course":"ENGENHARIA ELÉTRICA","state":"AC","incomes":{"a":0,"b":1,"c":2,"d":0,"e":1,"f":5,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA ELÉTRICA","state":"CE","incomes":{"a":8,"b":26,"c":32,"d":20,"e":35,"f":23,"g":6,"naoInformado":2}}
+{"course":"ENGENHARIA ELÉTRICA","state":"PA","incomes":{"a":23,"b":31,"c":22,"d":22,"e":23,"f":10,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"RN","incomes":{"a":9,"b":18,"c":19,"d":11,"e":17,"f":9,"g":1,"naoInformado":2}}
+{"course":"ENGENHARIA ELÉTRICA","state":"ES","incomes":{"a":10,"b":34,"c":22,"d":43,"e":63,"f":36,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"PB","incomes":{"a":11,"b":35,"c":24,"d":21,"e":43,"f":35,"g":7,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"AL","incomes":{"a":4,"b":4,"c":14,"d":16,"e":10,"f":7,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"MS","incomes":{"a":1,"b":11,"c":9,"d":7,"e":13,"f":11,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"AP","incomes":{"a":1,"b":6,"c":4,"d":5,"e":8,"f":5,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA ELÉTRICA","state":"TO","incomes":{"a":2,"b":5,"c":6,"d":1,"e":9,"f":4,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"DF","incomes":{"a":0,"b":2,"c":3,"d":1,"e":8,"f":20,"g":13,"naoInformado":2}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"SE","incomes":{"a":0,"b":0,"c":1,"d":4,"e":0,"f":1,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"AM","incomes":{"a":2,"b":7,"c":12,"d":14,"e":10,"f":9,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"MG","incomes":{"a":7,"b":37,"c":50,"d":50,"e":59,"f":41,"g":6,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"SP","incomes":{"a":20,"b":101,"c":141,"d":133,"e":217,"f":202,"g":30,"naoInformado":5}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"PR","incomes":{"a":8,"b":29,"c":23,"d":29,"e":43,"f":40,"g":5,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"RS","incomes":{"a":12,"b":29,"c":28,"d":36,"e":38,"f":32,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"RJ","incomes":{"a":10,"b":23,"c":39,"d":42,"e":66,"f":66,"g":16,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"SC","incomes":{"a":1,"b":3,"c":6,"d":14,"e":10,"f":9,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"GO","incomes":{"a":3,"b":19,"c":17,"d":8,"e":7,"f":5,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"BA","incomes":{"a":7,"b":31,"c":29,"d":24,"e":42,"f":23,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"MS","incomes":{"a":1,"b":4,"c":8,"d":5,"e":5,"f":3,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"PE","incomes":{"a":7,"b":7,"c":16,"d":24,"e":33,"f":32,"g":6,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"CE","incomes":{"a":5,"b":14,"c":22,"d":14,"e":12,"f":16,"g":0,"naoInformado":2}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"MA","incomes":{"a":1,"b":6,"c":2,"d":4,"e":2,"f":0,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"PA","incomes":{"a":10,"b":25,"c":23,"d":23,"e":20,"f":13,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"RN","incomes":{"a":6,"b":9,"c":13,"d":11,"e":8,"f":8,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA DE COMPUTAÇÃO","state":"ES","incomes":{"a":1,"b":6,"c":7,"d":3,"e":16,"f":12,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"DF","incomes":{"a":1,"b":1,"c":2,"d":2,"e":5,"f":16,"g":6,"naoInformado":0}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"MG","incomes":{"a":28,"b":104,"c":143,"d":120,"e":165,"f":122,"g":17,"naoInformado":1}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"PR","incomes":{"a":0,"b":15,"c":13,"d":17,"e":20,"f":29,"g":7,"naoInformado":1}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"RS","incomes":{"a":3,"b":15,"c":23,"d":29,"e":36,"f":30,"g":6,"naoInformado":1}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"SP","incomes":{"a":68,"b":230,"c":356,"d":343,"e":462,"f":238,"g":30,"naoInformado":5}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"RJ","incomes":{"a":5,"b":35,"c":45,"d":25,"e":53,"f":46,"g":12,"naoInformado":2}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"AM","incomes":{"a":2,"b":7,"c":3,"d":7,"e":15,"f":5,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"GO","incomes":{"a":1,"b":12,"c":6,"d":11,"e":12,"f":6,"g":1,"naoInformado":2}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"BA","incomes":{"a":11,"b":16,"c":31,"d":28,"e":43,"f":20,"g":4,"naoInformado":1}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"MS","incomes":{"a":3,"b":8,"c":8,"d":6,"e":3,"f":4,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"PE","incomes":{"a":2,"b":7,"c":9,"d":12,"e":21,"f":20,"g":3,"naoInformado":2}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"SC","incomes":{"a":0,"b":10,"c":9,"d":19,"e":22,"f":24,"g":4,"naoInformado":1}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"CE","incomes":{"a":0,"b":5,"c":13,"d":11,"e":17,"f":22,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"RN","incomes":{"a":0,"b":0,"c":2,"d":2,"e":1,"f":2,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"ES","incomes":{"a":2,"b":7,"c":9,"d":13,"e":21,"f":25,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA DE CONTROLE E AUTOMAÇÃO","state":"PA","incomes":{"a":2,"b":8,"c":8,"d":15,"e":11,"f":13,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"MT","incomes":{"a":3,"b":8,"c":4,"d":11,"e":18,"f":8,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"DF","incomes":{"a":1,"b":7,"c":4,"d":10,"e":29,"f":31,"g":14,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"SE","incomes":{"a":2,"b":7,"c":6,"d":11,"e":18,"f":17,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"AM","incomes":{"a":12,"b":28,"c":35,"d":36,"e":36,"f":36,"g":3,"naoInformado":2}}
+{"course":"ENGENHARIA MECÂNICA","state":"PI","incomes":{"a":5,"b":7,"c":4,"d":6,"e":9,"f":7,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"MG","incomes":{"a":61,"b":231,"c":324,"d":334,"e":422,"f":269,"g":50,"naoInformado":2}}
+{"course":"ENGENHARIA MECÂNICA","state":"SP","incomes":{"a":98,"b":410,"c":659,"d":733,"e":1014,"f":731,"g":129,"naoInformado":12}}
+{"course":"ENGENHARIA MECÂNICA","state":"PR","incomes":{"a":17,"b":48,"c":86,"d":115,"e":198,"f":188,"g":32,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"RS","incomes":{"a":42,"b":105,"c":149,"d":160,"e":294,"f":213,"g":22,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"RJ","incomes":{"a":17,"b":79,"c":125,"d":124,"e":219,"f":229,"g":68,"naoInformado":2}}
+{"course":"ENGENHARIA MECÂNICA","state":"SC","incomes":{"a":8,"b":38,"c":78,"d":67,"e":136,"f":86,"g":10,"naoInformado":2}}
+{"course":"ENGENHARIA MECÂNICA","state":"GO","incomes":{"a":12,"b":59,"c":54,"d":41,"e":50,"f":25,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"BA","incomes":{"a":18,"b":44,"c":45,"d":47,"e":100,"f":112,"g":22,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"MS","incomes":{"a":4,"b":9,"c":18,"d":9,"e":8,"f":9,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"PE","incomes":{"a":4,"b":13,"c":25,"d":29,"e":61,"f":45,"g":9,"naoInformado":3}}
+{"course":"ENGENHARIA MECÂNICA","state":"CE","incomes":{"a":7,"b":12,"c":21,"d":11,"e":29,"f":37,"g":7,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"MA","incomes":{"a":15,"b":27,"c":26,"d":14,"e":15,"f":13,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"PA","incomes":{"a":16,"b":42,"c":18,"d":12,"e":15,"f":7,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA MECÂNICA","state":"RN","incomes":{"a":12,"b":27,"c":22,"d":17,"e":29,"f":16,"g":1,"naoInformado":2}}
+{"course":"ENGENHARIA MECÂNICA","state":"ES","incomes":{"a":21,"b":50,"c":51,"d":58,"e":85,"f":71,"g":11,"naoInformado":2}}
+{"course":"ENGENHARIA MECÂNICA","state":"PB","incomes":{"a":15,"b":20,"c":12,"d":14,"e":13,"f":18,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"SE","incomes":{"a":6,"b":15,"c":6,"d":4,"e":11,"f":8,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"AM","incomes":{"a":8,"b":3,"c":13,"d":6,"e":7,"f":9,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"SP","incomes":{"a":22,"b":134,"c":217,"d":190,"e":256,"f":274,"g":49,"naoInformado":2}}
+{"course":"ENGENHARIA QUÍMICA","state":"MG","incomes":{"a":31,"b":102,"c":124,"d":128,"e":136,"f":110,"g":11,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"PR","incomes":{"a":6,"b":23,"c":37,"d":33,"e":72,"f":73,"g":16,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"PE","incomes":{"a":9,"b":12,"c":19,"d":17,"e":21,"f":25,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"RS","incomes":{"a":17,"b":51,"c":58,"d":64,"e":118,"f":94,"g":11,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"SC","incomes":{"a":3,"b":31,"c":51,"d":59,"e":66,"f":60,"g":7,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"RJ","incomes":{"a":11,"b":52,"c":78,"d":74,"e":124,"f":170,"g":34,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"BA","incomes":{"a":6,"b":22,"c":28,"d":24,"e":48,"f":45,"g":12,"naoInformado":2}}
+{"course":"ENGENHARIA QUÍMICA","state":"MA","incomes":{"a":5,"b":13,"c":7,"d":11,"e":4,"f":4,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"PA","incomes":{"a":5,"b":11,"c":5,"d":4,"e":2,"f":3,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"RN","incomes":{"a":18,"b":25,"c":27,"d":25,"e":17,"f":24,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"ES","incomes":{"a":15,"b":28,"c":46,"d":27,"e":27,"f":26,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"AL","incomes":{"a":3,"b":17,"c":8,"d":12,"e":19,"f":2,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"PB","incomes":{"a":14,"b":22,"c":17,"d":12,"e":6,"f":7,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"CE","incomes":{"a":0,"b":6,"c":3,"d":4,"e":6,"f":5,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA QUÍMICA","state":"GO","incomes":{"a":0,"b":3,"c":1,"d":2,"e":4,"f":1,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA QUÍMICA","state":"AP","incomes":{"a":1,"b":0,"c":0,"d":0,"e":1,"f":2,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"MT","incomes":{"a":18,"b":33,"c":27,"d":17,"e":11,"f":5,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"SE","incomes":{"a":0,"b":3,"c":2,"d":1,"e":0,"f":1,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"MG","incomes":{"a":19,"b":46,"c":53,"d":39,"e":42,"f":21,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"PR","incomes":{"a":5,"b":27,"c":32,"d":24,"e":31,"f":39,"g":5,"naoInformado":1}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"RS","incomes":{"a":9,"b":15,"c":19,"d":19,"e":21,"f":13,"g":1,"naoInformado":0}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"SC","incomes":{"a":13,"b":30,"c":37,"d":30,"e":22,"f":10,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"SP","incomes":{"a":5,"b":22,"c":44,"d":30,"e":47,"f":61,"g":10,"naoInformado":1}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"GO","incomes":{"a":10,"b":33,"c":23,"d":23,"e":16,"f":8,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"MA","incomes":{"a":3,"b":1,"c":0,"d":1,"e":1,"f":0,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"PA","incomes":{"a":4,"b":13,"c":5,"d":5,"e":7,"f":3,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"RN","incomes":{"a":0,"b":9,"c":7,"d":2,"e":4,"f":4,"g":2,"naoInformado":0}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"ES","incomes":{"a":1,"b":4,"c":4,"d":2,"e":7,"f":5,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"RJ","incomes":{"a":1,"b":4,"c":16,"d":15,"e":18,"f":10,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"PB","incomes":{"a":28,"b":15,"c":13,"d":3,"e":5,"f":3,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"CE","incomes":{"a":13,"b":27,"c":17,"d":5,"e":14,"f":4,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"PE","incomes":{"a":3,"b":6,"c":3,"d":1,"e":2,"f":0,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"BA","incomes":{"a":2,"b":14,"c":17,"d":6,"e":7,"f":3,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"RO","incomes":{"a":6,"b":11,"c":4,"d":9,"e":0,"f":2,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"TO","incomes":{"a":9,"b":18,"c":11,"d":5,"e":7,"f":3,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA DE ALIMENTOS","state":"MS","incomes":{"a":5,"b":2,"c":8,"d":4,"e":2,"f":4,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"DF","incomes":{"a":2,"b":2,"c":4,"d":4,"e":10,"f":13,"g":13,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"SE","incomes":{"a":3,"b":30,"c":35,"d":17,"e":40,"f":33,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"AM","incomes":{"a":16,"b":36,"c":35,"d":36,"e":40,"f":18,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"PI","incomes":{"a":4,"b":11,"c":15,"d":30,"e":23,"f":7,"g":5,"naoInformado":0}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"MG","incomes":{"a":150,"b":515,"c":641,"d":548,"e":599,"f":353,"g":64,"naoInformado":2}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"SP","incomes":{"a":113,"b":532,"c":874,"d":876,"e":1217,"f":938,"g":197,"naoInformado":7}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"PR","incomes":{"a":19,"b":65,"c":119,"d":128,"e":191,"f":156,"g":42,"naoInformado":3}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"RS","incomes":{"a":24,"b":53,"c":88,"d":108,"e":184,"f":155,"g":22,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"RJ","incomes":{"a":95,"b":339,"c":400,"d":377,"e":562,"f":541,"g":150,"naoInformado":7}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"BA","incomes":{"a":32,"b":80,"c":108,"d":111,"e":103,"f":85,"g":11,"naoInformado":2}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"SC","incomes":{"a":23,"b":85,"c":142,"d":138,"e":250,"f":147,"g":23,"naoInformado":2}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"ES","incomes":{"a":7,"b":36,"c":49,"d":47,"e":83,"f":56,"g":6,"naoInformado":2}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"PA","incomes":{"a":20,"b":17,"c":15,"d":12,"e":13,"f":19,"g":4,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"GO","incomes":{"a":12,"b":28,"c":41,"d":32,"e":34,"f":31,"g":5,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"CE","incomes":{"a":4,"b":30,"c":22,"d":25,"e":41,"f":55,"g":17,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"MA","incomes":{"a":8,"b":20,"c":30,"d":29,"e":29,"f":15,"g":5,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"RN","incomes":{"a":11,"b":23,"c":23,"d":20,"e":31,"f":28,"g":5,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"AL","incomes":{"a":3,"b":7,"c":15,"d":12,"e":24,"f":12,"g":6,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"PB","incomes":{"a":8,"b":16,"c":11,"d":9,"e":7,"f":15,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"PE","incomes":{"a":8,"b":46,"c":45,"d":54,"e":101,"f":97,"g":24,"naoInformado":3}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"MS","incomes":{"a":9,"b":23,"c":28,"d":15,"e":15,"f":16,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"RO","incomes":{"a":0,"b":0,"c":3,"d":0,"e":0,"f":0,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"MT","incomes":{"a":15,"b":25,"c":28,"d":32,"e":12,"f":8,"g":2,"naoInformado":2}}
+{"course":"ENGENHARIA DE PRODUÇÃO","state":"AP","incomes":{"a":4,"b":7,"c":2,"d":0,"e":4,"f":0,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"DF","incomes":{"a":0,"b":2,"c":3,"d":6,"e":15,"f":11,"g":5,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"SE","incomes":{"a":13,"b":20,"c":15,"d":17,"e":32,"f":26,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"AM","incomes":{"a":5,"b":5,"c":15,"d":11,"e":11,"f":7,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"MG","incomes":{"a":57,"b":177,"c":206,"d":180,"e":267,"f":205,"g":27,"naoInformado":2}}
+{"course":"ENGENHARIA","state":"SP","incomes":{"a":35,"b":112,"c":169,"d":166,"e":257,"f":194,"g":42,"naoInformado":2}}
+{"course":"ENGENHARIA","state":"RS","incomes":{"a":12,"b":37,"c":37,"d":42,"e":55,"f":45,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"RJ","incomes":{"a":36,"b":106,"c":106,"d":88,"e":97,"f":99,"g":23,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"PR","incomes":{"a":8,"b":32,"c":37,"d":18,"e":41,"f":21,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"BA","incomes":{"a":28,"b":68,"c":56,"d":55,"e":60,"f":35,"g":8,"naoInformado":2}}
+{"course":"ENGENHARIA","state":"SC","incomes":{"a":11,"b":38,"c":33,"d":44,"e":54,"f":37,"g":10,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"TO","incomes":{"a":16,"b":39,"c":25,"d":18,"e":23,"f":13,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"PA","incomes":{"a":11,"b":16,"c":17,"d":6,"e":9,"f":9,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"RN","incomes":{"a":10,"b":28,"c":33,"d":25,"e":36,"f":19,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"ES","incomes":{"a":10,"b":24,"c":47,"d":35,"e":50,"f":30,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"AL","incomes":{"a":3,"b":4,"c":10,"d":8,"e":7,"f":4,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"PB","incomes":{"a":30,"b":45,"c":19,"d":16,"e":6,"f":8,"g":1,"naoInformado":0}}
+{"course":"ENGENHARIA","state":"PE","incomes":{"a":2,"b":8,"c":8,"d":14,"e":13,"f":8,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"CE","incomes":{"a":21,"b":43,"c":29,"d":13,"e":17,"f":14,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"GO","incomes":{"a":5,"b":6,"c":9,"d":13,"e":11,"f":6,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"MS","incomes":{"a":2,"b":5,"c":5,"d":1,"e":9,"f":3,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA","state":"AP","incomes":{"a":0,"b":0,"c":0,"d":0,"e":0,"f":1,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"MT","incomes":{"a":16,"b":45,"c":44,"d":23,"e":42,"f":22,"g":1,"naoInformado":3}}
+{"course":"ENGENHARIA AMBIENTAL","state":"DF","incomes":{"a":4,"b":10,"c":4,"d":7,"e":17,"f":12,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"AM","incomes":{"a":22,"b":47,"c":45,"d":12,"e":24,"f":11,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"MG","incomes":{"a":118,"b":349,"c":316,"d":205,"e":253,"f":133,"g":15,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"SP","incomes":{"a":58,"b":224,"c":318,"d":289,"e":387,"f":248,"g":22,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"PR","incomes":{"a":18,"b":77,"c":67,"d":80,"e":110,"f":72,"g":11,"naoInformado":2}}
+{"course":"ENGENHARIA AMBIENTAL","state":"PE","incomes":{"a":1,"b":15,"c":28,"d":13,"e":38,"f":17,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"RS","incomes":{"a":23,"b":56,"c":78,"d":66,"e":66,"f":33,"g":7,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"SC","incomes":{"a":16,"b":87,"c":70,"d":62,"e":76,"f":56,"g":5,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"RJ","incomes":{"a":18,"b":49,"c":43,"d":42,"e":72,"f":79,"g":17,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"PA","incomes":{"a":9,"b":28,"c":15,"d":22,"e":12,"f":15,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"BA","incomes":{"a":46,"b":103,"c":66,"d":63,"e":74,"f":50,"g":4,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"MS","incomes":{"a":6,"b":11,"c":22,"d":13,"e":17,"f":12,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"SE","incomes":{"a":1,"b":6,"c":4,"d":5,"e":14,"f":7,"g":1,"naoInformado":0}}
+{"course":"ENGENHARIA AMBIENTAL","state":"GO","incomes":{"a":20,"b":88,"c":64,"d":53,"e":53,"f":26,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"PB","incomes":{"a":21,"b":29,"c":28,"d":17,"e":22,"f":13,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"CE","incomes":{"a":15,"b":30,"c":20,"d":13,"e":18,"f":14,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"RN","incomes":{"a":1,"b":8,"c":10,"d":6,"e":13,"f":9,"g":1,"naoInformado":0}}
+{"course":"ENGENHARIA AMBIENTAL","state":"ES","incomes":{"a":4,"b":23,"c":24,"d":24,"e":22,"f":11,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"AL","incomes":{"a":3,"b":9,"c":7,"d":11,"e":12,"f":8,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"RO","incomes":{"a":3,"b":12,"c":9,"d":10,"e":6,"f":4,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"MA","incomes":{"a":3,"b":15,"c":20,"d":19,"e":16,"f":8,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"TO","incomes":{"a":9,"b":30,"c":25,"d":16,"e":22,"f":8,"g":2,"naoInformado":1}}
+{"course":"ENGENHARIA AMBIENTAL","state":"AP","incomes":{"a":2,"b":5,"c":5,"d":4,"e":1,"f":0,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"MT","incomes":{"a":39,"b":72,"c":42,"d":36,"e":36,"f":9,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"DF","incomes":{"a":6,"b":4,"c":3,"d":6,"e":19,"f":23,"g":4,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"SE","incomes":{"a":4,"b":7,"c":8,"d":8,"e":4,"f":3,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"AM","incomes":{"a":6,"b":15,"c":3,"d":9,"e":3,"f":1,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA FLORESTAL","state":"PI","incomes":{"a":16,"b":12,"c":1,"d":1,"e":2,"f":0,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"SP","incomes":{"a":8,"b":22,"c":11,"d":14,"e":15,"f":15,"g":1,"naoInformado":2}}
+{"course":"ENGENHARIA FLORESTAL","state":"MG","incomes":{"a":30,"b":49,"c":45,"d":37,"e":36,"f":18,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"PR","incomes":{"a":10,"b":41,"c":36,"d":32,"e":44,"f":21,"g":2,"naoInformado":3}}
+{"course":"ENGENHARIA FLORESTAL","state":"SC","incomes":{"a":12,"b":26,"c":25,"d":16,"e":23,"f":8,"g":3,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"GO","incomes":{"a":10,"b":26,"c":21,"d":17,"e":12,"f":6,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"AC","incomes":{"a":11,"b":13,"c":7,"d":8,"e":1,"f":3,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"PA","incomes":{"a":27,"b":40,"c":17,"d":11,"e":7,"f":1,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"RN","incomes":{"a":9,"b":5,"c":5,"d":2,"e":2,"f":2,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA FLORESTAL","state":"ES","incomes":{"a":4,"b":7,"c":4,"d":4,"e":8,"f":6,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA FLORESTAL","state":"RJ","incomes":{"a":7,"b":11,"c":20,"d":12,"e":14,"f":15,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"RS","incomes":{"a":16,"b":30,"c":30,"d":13,"e":15,"f":5,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA FLORESTAL","state":"PE","incomes":{"a":8,"b":11,"c":7,"d":4,"e":7,"f":3,"g":1,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"BA","incomes":{"a":12,"b":23,"c":17,"d":13,"e":10,"f":4,"g":0,"naoInformado":2}}
+{"course":"ENGENHARIA FLORESTAL","state":"MS","incomes":{"a":9,"b":14,"c":12,"d":4,"e":11,"f":2,"g":0,"naoInformado":2}}
+{"course":"ENGENHARIA FLORESTAL","state":"RO","incomes":{"a":6,"b":14,"c":17,"d":8,"e":8,"f":2,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA FLORESTAL","state":"AP","incomes":{"a":10,"b":16,"c":17,"d":5,"e":3,"f":2,"g":0,"naoInformado":1}}
+{"course":"ENGENHARIA FLORESTAL","state":"PB","incomes":{"a":8,"b":4,"c":1,"d":1,"e":1,"f":0,"g":0,"naoInformado":0}}
+{"course":"ENGENHARIA FLORESTAL","state":"TO","incomes":{"a":10,"b":17,"c":11,"d":6,"e":2,"f":1,"g":1,"naoInformado":0}}

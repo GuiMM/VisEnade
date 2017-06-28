@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="Models\CountIncomeObject.cs" />
     <Compile Include="Models\CourseIncomeObject.cs" />
+    <Compile Include="Models\CourseStateIncomeCountObject.cs" />
     <Compile Include="Models\CourseStateIncomeObject.cs" />
     <Compile Include="Models\EnadeObject.cs" />
     <Compile Include="Program.cs" />
