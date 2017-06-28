@@ -5,7 +5,7 @@
         var exports = {};
         
         scope.margins = {top: 10, bottom: 250, left: 50, right: 15};
-        scope.cw = 500;
+        scope.cw = 600;
         scope.ch = 500;
         scope.labelX = undefined;
         scope.labelY = undefined;
@@ -21,7 +21,8 @@
         scope.zScale    = undefined;    
         scope.data     = [];
         scope.currState=undefined;
-        
+        scope.yAxisGroup = undefined;
+        scope.zoom = undefined;
         scope.appendSvg = function(div)
         {
             var node = d3.select(div).append('svg')
@@ -32,19 +33,11 @@
             return node;
         }
         
-        scope.loadData = function(file)
-        {
-            d3.json(file, function(error, data)
-            {
-                scope.data = data;
-                console.log(scope.data);
-                      
-            });
-
-        }
+        
         scope.appendChartGroup = function(svg)
         {
             var chart = svg.append('g')
+                .attr('class', 'chart-area')
                 .attr('width', scope.cw)
                 .attr('height', scope.ch)
                 .attr('transform', 'translate('+ scope.margins.left +','+ scope.margins.top +')' );
@@ -56,7 +49,7 @@
         {
              var arr = scope.data;
             var keys = Object.keys(scope.data[0].incomes);
-            console.log(arr);
+            
          scope.rect = div.append("g")
             .selectAll("g")
             .data(arr)
@@ -65,10 +58,10 @@
             .selectAll("rect")
             .data(function(d) { return keys.map(function(key) { return {key: key, value: d.incomes[key]}; }); })
             .enter().append("rect")
-            .attr("x", function(d) { console.log(d.key);return scope.xScale1(d.key); })
-            .attr("y", function(d) { console.log(d.value); return scope.yScale(d.value); })
+            .attr("x", function(d) { return scope.xScale1(d.key); })
+            .attr("y", function(d) { return scope.yScale(d.value); })
             .attr("width", scope.xScale1.bandwidth())
-            .attr("height", function(d) { return scope.ch -scope.margins.top - scope.yScale(d.value); })// 500 - 10 -
+            .attr("height", function(d) { if(scope.yScale(d.value)==scope.ch)return 0;    return scope.ch -scope.margins.top - scope.yScale(d.value); })
             .attr("fill", function(d) { return scope.zScale(d.key); });
 
          
@@ -100,45 +93,44 @@
                 .attr("dy", ".15em")
                 .attr("transform", "rotate(-65)");
                 
-
-            var yAxisGroup = svg.append('g')
-            .attr('class', 'yAxis')
-            .attr('transform', 'translate('+ scope.margins.left +','+ scope.margins.top +')');
-
-        
             scope.yAxis = d3.axisLeft(scope.yScale);
-
-       
-            yAxisGroup.call(scope.yAxis); 
+            
+            scope.yAxisGroup = svg.append('g')
+            .attr('class', 'yAxis')
+            .attr('transform', 'translate('+ scope.margins.left +','+ scope.margins.top +')')
+            .call(scope.yAxis);
+           
             
             
-            var zoom = d3.zoom()
-            .scaleExtent([1, 40])
-            .translateExtent([[-100, -100], [scope.cw + 90, scope.ch + 100]])
-            .on("zoom", scope.zoomed);
-            
-            svg.call(zoom);
             
         }
-         scope.zoomed = function(){
-             scope.rect.attr("transform", d3.event.transform);
-             gX.call(scope.xAxis.scale(d3.event.transform.rescaleX(x)));
-             
-         }
-         scope.zoom = function() 
-         {
-             
-             scope.rect.attr("transform", d3.event.transform);
-             gX.call(scope.xAxis.scale(d3.event.transform.rescaleX(x)));
-                   // re-scale x axis during zoom; ref [2]
-                   //scope.xAxis.transition()
-                   //    .duration(50)
-                   //      .call(scope.xAxis.scale(d3.event.transform.rescaleX(scope.xScale0)));
+        scope.addZoom = function(svg)
+        {
+            function zoomed()
+            {
+                var t = d3.event.transform;
+        
+                var nScaleX = t.rescaleX(scope.xScale0);
+                scope.xAxis.scale(nScaleX);
+                
+                var xAxisGroup = svg.select('.xAxis');
+                xAxisGroup.call(scope.xAxis);
 
-                   // re-draw circles using new y-axis scale; ref [3]
-                   //var new_xScale = d3.event.transform.rescaleX(scope.xScale0);
-                   //circles.attr("dx", function(d) { return new_xScale(d[1]); });          
-         }
+                svg.select('.chart-area')
+                .selectAll('rect')
+                .attr("x", function(d) { return scope.xScale1(d.key); });
+            }
+    
+            scope.zoom = d3.zoom()
+            .on("zoom", zoomed);
+
+            svg.append("rect")
+            .attr("class", "zoom")
+            .attr("width", scope.cw)
+            .attr("height", scope.margins.bottom)
+            .attr('transform', 'translate('+ scope.margins.left +','+ (scope.ch+scope.margins.top) +')')
+            .call(scope.zoom);   
+        }
 
         scope.createLabel = function(svg)
     {
@@ -196,26 +188,23 @@
             
         }
 
-        exports.run = function(data) 
+        exports.run = function(data,div) 
         {
             //apenas testando para um estado qualquer
             //scope.currState = "MT";
-            //scope.data = data;
-            console.log(data);
+            scope.data = data;
             
-            //var keys = Object.keys(data[0].incomes);
-            //var keysArr = Object.keys(scope.data[0].incomes);
-            data.forEach(scope.separate);
+            //data.forEach(scope.separate);
             
-            console.log(scope.data);
-            console.log(data[0].incomes);
-            var svg = scope.appendSvg("#chart02");
+            
+            var svg = scope.appendSvg(div);
             var cht = scope.appendChartGroup(svg); 
-            
+            var keys = Object.keys(scope.data[0].incomes);
+           
             scope.createAxes(svg); 
             scope.createLabel(svg);   
             scope.appendRects(cht);
-            //scope.appendLegenda(cht, keys);
+            scope.appendLegenda(cht, keys);
            
         }
            return exports;

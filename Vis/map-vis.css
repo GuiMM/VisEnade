@@ -7,3 +7,15 @@
     
     text-align: center;
 }
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+.zoom{
+    fill: none;
+    pointer-events: all;
+}
