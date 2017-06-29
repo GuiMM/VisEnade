@@ -12,7 +12,8 @@ function map(){
     myApp.medias = undefined;
     myApp.svgCon = undefined;
     myApp.svgMer = undefined;
-
+    
+    myApp.div = undefined;
     myApp.mapCon = undefined;
     myApp.mapMer = undefined;
     myApp.color = undefined;
@@ -37,7 +38,7 @@ function map(){
         if (error) throw error;
 
             myApp.medias=data;        
-
+          
         });
 
     }
@@ -108,12 +109,13 @@ function map(){
     {
         document.getElementById("chart02").innerHTML = "";
         document.getElementById("chart03").innerHTML = "";
+        document.getElementById("chart04").innerHTML = "";
         
         var file = "../DataWorker/DataWorker/DataWorker/Output/courseStateIncomeGrade - g1.json";
      d3.json(file, function(error, data)
             {
                 myApp.chart02 = new histograma();
-                myApp.chart02.run(data,"#chart02",d.properties.uf_05);
+                myApp.chart02.run(data,"#chart03",d.properties.uf_05);
                       
             });
     
@@ -122,7 +124,16 @@ function map(){
      d3.json(file, function(error, data)
             {
                 myApp.chart03 = new histograma();
-                myApp.chart03.run(data,"#chart03",d.properties.uf_05);
+                myApp.chart03.run(data,"#chart04",d.properties.uf_05);
+                      
+            });
+        
+        //loading data
+    var file = "../DataWorker/DataWorker/DataWorker/Output/StateIncomeCount.json";
+     d3.json(file, function(error, data)
+            {
+                myApp.chart05 = new pieChartPerState();
+                myApp.chart05.run(data,"#chart02",d.properties.uf_05);
                       
             });
     }
@@ -132,10 +143,29 @@ function map(){
                 for (var i = 0; i < myApp.medias.length; i++) {
                         if (d.properties.uf_05.localeCompare(myApp.medias[i].estado)==0) return myApp.color(myApp.medias[i].media);
                     };});
+        
+         myApp.div.transition()
+         .duration(500)
+         .style("opacity", 0);
+         
     }
     myApp.mouseover= function(d){
         // Highlight hovered province
         d3.select(this).style('fill', 'orange');
+        
+        var media = 0;
+                for (var i = 0; i < myApp.medias.length; i++) {
+                        if (d.properties.uf_05.localeCompare(myApp.medias[i].estado)==0) media = myApp.medias[i].media;
+                    };
+        
+        myApp.div.transition()
+         .duration(200)
+         .style("opacity", .9);
+       myApp.div.html(d.properties.uf_05 + "<br/>" + media)
+         .style("left", (d3.event.pageX) + "px")
+         .style("top", (d3.event.pageY - 28) + "px");
+       
+        //document.getElementById(this).innerHTML = " <span class="+d.properties.nome_uf+">Tooltip text</span>";
         
     }
     myApp.legend =  function()
@@ -169,8 +199,13 @@ function map(){
         myApp.appendSvg("#chart01");
         myApp.appendMapGroups(); 
         
+        myApp.div = d3.select("body").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+        
         myApp.loadData("../DataWorker/DataWorker/DataWorker/Output/StatesGrades.csv");    
         myApp.loadGeoJson("./brasil_estados.geojson");
+        
         myApp.legend();
     }
            return exports;

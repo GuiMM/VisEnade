@@ -1,6 +1,6 @@
     'use strict';
 
-    function pieChartPerState(){
+    function pieChartPerCourse(){
         var scope = {};
         var exports = {};
         
@@ -12,7 +12,6 @@
         scope.color    = undefined;    
         scope.data     = [];
         scope.currState=undefined;
-        scope.yAxisGroup = undefined;
         scope.arc = undefined;
         scope.labelArc = undefined;
         scope.legends = [];
@@ -64,13 +63,11 @@
           g.append("text")
             .attr("transform", function(d) { return "translate(" + scope.labelArc.centroid(d) + ")"; })
             .attr("dy", ".35em")
-            .text(function(d) { return d.data.count; })
-            .transition()           // apply a transition
-            .duration(4000);
+            .text(function(d) { return d.data.count; });
          
         }
         
-    scope.mouseout = function(d){
+        scope.mouseout = function(d){
         
          scope.div.transition()
          .duration(500)
@@ -90,7 +87,6 @@
         
     }
 
-
        
 
         scope.createLabel = function(svg)
@@ -104,7 +100,6 @@
         .innerRadius(scope.radius - 40);
     }
 
-    
         //método que separa as legenda de renda
         scope.separateLegend = function(item,index)
         {
@@ -113,11 +108,11 @@
               
         }
         
-         //método que separa os dados por estado
+         //método que separa os dados por curso
         scope.separate = function(item,index)
         {
             
-            if (item.state==scope.currState){
+            if (item.course==scope.currCourse){
                 scope.data.push(item.incomes);
                 
             }  
@@ -125,10 +120,10 @@
         }
        
         
-        exports.run = function(data,div,state) 
+        exports.run = function(data,div,course) 
         {
             //separar por estado 
-            scope.currState = state;
+            scope.currCourse = course;
             data.forEach(scope.separate);
             
            
@@ -140,7 +135,7 @@
                 
             }
             
-            
+            console.log(scope.rendaObject);
             var svg = scope.appendSvg(div);
             var cht = scope.appendChartGroup(svg); 
             

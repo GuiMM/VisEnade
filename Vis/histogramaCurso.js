@@ -1,11 +1,11 @@
     'use strict';
 
-    function histograma(){
+    function histogramaCurso(){
         var scope = {};
         var exports = {};
         
-        scope.margins = {top: 10, bottom: 250, left: 50, right: 100};
-        scope.cw = 550;
+        scope.margins = {top: 10, bottom: 250, left: 50, right: 15};
+        scope.cw = 600;
         scope.ch = 500;
         scope.labelX = undefined;
         scope.labelY = undefined;
@@ -20,7 +20,7 @@
         scope.yAxis    = undefined;
         scope.zScale    = undefined;    
         scope.data     = [];
-        scope.currState=undefined;
+        scope.currCurso = undefined;
         scope.yAxisGroup = undefined;
         scope.zoom = undefined;
         scope.appendSvg = function(div)
@@ -47,14 +47,14 @@
 
         scope.appendRects = function(div)
         {
-            var arr = scope.data;
+             var arr = scope.data;
             var keys = Object.keys(scope.data[0].incomes);
             
          scope.rect = div.append("g")
             .selectAll("g")
             .data(arr)
             .enter().append("g")
-            .attr("transform", function(d) { return "translate(" + scope.xScale0(d.course) + ",0)"; })
+            .attr("transform", function(d) { return "translate(" + scope.xScale0(d.state) + ",0)"; })
             .selectAll("rect")
             .data(function(d) { return keys.map(function(key) { return {key: key, value: d.incomes[key]}; }); })
             .enter().append("rect")
@@ -73,7 +73,7 @@
             scope.xScale0 = d3.scaleBand()
                 .rangeRound([0, scope.cw])
                 .paddingInner(0.1)
-                .domain(scope.data.map(function(d) { return d.course; }));
+                .domain(scope.data.map(function(d) { return d.state; }));
             scope.xScale1 = d3.scaleBand()
                 .padding(0.05)
                 .domain(keys)
@@ -168,13 +168,13 @@
             .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
 
          legend.append("rect")
-            .attr("x", scope.cw + 20)
-            .attr("width", 10)
+            .attr("x", scope.cw - 19)
+            .attr("width", 19)
             .attr("height", 19)
             .attr("fill", scope.zScale);
 
          legend.append("text")
-            .attr("x", scope.cw +15)
+            .attr("x", scope.cw - 24)
             .attr("y", 9.5)
             .attr("dy", "0.32em")
             .text(function(d) { return d; });
@@ -183,17 +183,17 @@
         scope.separate = function(item,index)
         {
             
-            if (item.state==scope.currState){
+            if (item.course==scope.currCurso){
                 scope.data.push(item);
                 
             }  
             
         }
 
-        exports.run = function(data,div,state) 
+        exports.run = function(data,div,curso) 
         {   
-            if(state!=""){
-                scope.currState = state;
+            if(curso!=""){
+                scope.currCurso = curso;
                 data.forEach(scope.separate);
             }else{
                  scope.data = data;
@@ -205,7 +205,7 @@
             var svg = scope.appendSvg(div);
             var cht = scope.appendChartGroup(svg); 
             var keys = Object.keys(scope.data[0].incomes);
-          
+           
             scope.createAxes(svg); 
             scope.createLabel(svg);   
             scope.appendRects(cht);

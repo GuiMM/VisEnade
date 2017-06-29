@@ -6,27 +6,16 @@
         
         scope.margins = {top: 10, bottom: 250, left: 50, right: 15};
         scope.cw = 600;
-        scope.ch = 500;
-        scope.radius = 500 / 2;
-        scope.labelX = undefined;
-        scope.labelY = undefined;
-        scope.ticks = undefined;
-        scope.rect = undefined;
+        scope.ch = 600;
+        scope.radius = scope.cw / 3;
         scope.div      = undefined;
-        scope.auxScale = undefined;
-        scope.xScale0  = undefined;
-        scope.xScale1  = undefined;
-        scope.yScale   = undefined;
-        scope.xAxis    = undefined;
-        scope.yAxis    = undefined;
         scope.color    = undefined;    
         scope.data     = [];
         scope.currState=undefined;
-        scope.yAxisGroup = undefined;
         scope.arc = undefined;
         scope.labelArc = undefined;
         scope.legends = [];
-        
+        scope.div = undefined;        
         scope.appendSvg = function(div)
         {
            var node = d3.select(div).append("svg")
@@ -65,14 +54,37 @@
 
             g.append("path")
             .attr("d", scope.arc)
-            .style("fill", function(d) { return scope.color(d.data.count); });
+            .style("fill", function(d) { return scope.color(d.data.count); })
+            .on('mouseover', scope.mouseover)
+            .on('mouseout', scope.mouseout);
 
           g.append("text")
             .attr("transform", function(d) { return "translate(" + scope.labelArc.centroid(d) + ")"; })
             .attr("dy", ".35em")
             .text(function(d) { return d.data.count; });
+            
+            
          
         }
+        
+    scope.mouseout = function(d){
+        
+         scope.div.transition()
+         .duration(500)
+         .style("opacity", 0);
+         
+    }
+    scope.mouseover= function(d){
+        
+        scope.div.transition()
+         .duration(200)
+         .style("opacity", .9);
+       scope.div.html(d.data.income + "<br/>" + d.data.count)
+         .style("left", (d3.event.pageX) + "px")
+         .style("top", (d3.event.pageY - 28) + "px");
+       
+        
+    }
 
        
 
@@ -87,28 +99,7 @@
         .innerRadius(scope.radius - 40);
     }
 
-    scope.appendLegenda = function(svg){
-         var legend = svg.append("g")
-            .attr("font-family", "sans-serif")
-            .attr("font-size", 10)
-            .attr("text-anchor", "end")
-            .selectAll("g")
-            .data(scope.legends.slice().reverse())
-            .enter().append("g")
-            .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
-
-         legend.append("rect")
-            .attr("x", scope.cw - 19)
-            .attr("width", 19)
-            .attr("height", 19)
-            .attr("fill", scope.color);
-
-         legend.append("text")
-            .attr("x", scope.cw - 24)
-            .attr("y", 9.5)
-            .attr("dy", "0.32em")
-            .text(function(d) { return d; });
-     }
+   
         //método que separa as legenda de renda
         scope.separateLegend = function(item,index)
         {
@@ -119,19 +110,22 @@
 
         exports.run = function(data,div) 
         {
-            //apenas testando para um estado qualquer
-            //scope.currState = "MT";
+            
             scope.data = data;
             scope.data.forEach(scope.separateLegend);
+            
             
             var svg = scope.appendSvg(div);
             var cht = scope.appendChartGroup(svg); 
             
+            scope.div = d3.select("body").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
           
             scope.createLabel(svg);   
             scope.appendPie(cht);
             
-            scope.appendLegenda(cht);
+            
            
         }
            return exports;

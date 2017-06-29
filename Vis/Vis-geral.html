@@ -2,22 +2,78 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Title of the document</title>
+<title>Visualização Enade</title>
 <link rel="stylesheet" href="map-vis.css">
 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 
 <script src="map-vis.js"></script>   
 <script src="histograma.js"></script>
+<script src="histogramaCurso.js"></script>    
 <script src="pieChart.js"></script>
-<script src="pieChartPerState.js"></script>    
+<script src="pieChartPerState.js"></script>  
+<script src="pieChartPerCourse.js"></script>    
 <script src="myApp.js"></script>    
 </head>
-
+    
 <body>
+    <div id="title"><h2> Dados do Enade</h2></div>
     <div id="mainDiv">
+        <div id="menu">
+        <form>
+            Selecione um curso:
+            <select id="mySelect">
+            <option>TODOS</option>
+            <option>ARQUITETURA E URBANISMO</option>
+            <option>TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</option>
+            <option>TECNOLOGIA EM AUTOMAÇÃO INDUSTRIAL</option>
+            <option>TECNOLOGIA EM GESTÃO DA PRODUÇÃO INDUSTRIAL</option>
+            <option>TECNOLOGIA EM REDES DE COMPUTADORES</option>
+            <option>MATEMÁTICA(BACHARELADO)</option>
+            <option>MATEMÁTICA(LICENCIATURA)</option>
+            <option>LETRAS - PORTUGUÊS(BACHARELADO)</option>
+            <option>LETRAS - PORTUGUÊS(LICENCIATURA)</option>
+            <option>LETRAS - PORTUGUÊS E INGLÊS(LICENCIATURA)</option>
+            <option>LETRAS - PORTUGUÊS E ESPANHOL(LICENCIATURA)</option>
+            <option>FÍSICA(BACHARELADO)</option>
+            <option>FÍSICA(LICENCIATURA)</option>
+            <option>QUÍMICA(BACHARELADO)</option>
+            <option>QUÍMICA(LICENCIATURA)</option>
+            <option>CIÊNCIAS BIOLÓGICAS(BACHARELADO)</option>
+            <option>CIÊNCIAS BIOLÓGICAS(LICENCIATURA)</option>
+            <option>PEDAGOGIA(LICENCIATURA)</option>
+            <option>HISTÓRIA(BACHARELADO)</option>
+            <option>HISTÓRIA(LICENCIATURA)</option>
+            <option>ARTES VISUAIS(LICENCIATURA)</option>
+            <option>GEOGRAFIA(BACHARELADO)</option>
+            <option>GEOGRAFIA(LICENCIATURA)</option>
+            <option>FILOSOFIA(BACHARELADO)</option>
+            <option>FILOSOFIA(LICENCIATURA)</option>
+            <option>EDUCAÇÃO FÍSICA(LICENCIATURA)</option>
+            <option>CIÊNCIA DA COMPUTAÇÃO(BACHARELADO)</option>
+            <option>CIÊNCIA DA COMPUTAÇÃO(LICENCIATURA)</option>
+            <option>SISTEMAS DE INFORMAÇÃO</option>
+            <option>MÚSICA(LICENCIATURA)</option>
+            <option>CIÊNCIAS SOCIAIS(BACHARELADO)</option>
+            <option>CIÊNCIAS SOCIAIS(LICENCIATURA)</option>
+            <option>ENGENHARIA CIVIL</option>
+            <option>ENGENHARIA ELÉTRICA</option>
+            <option>ENGENHARIA DE COMPUTAÇÃO</option>
+            <option>ENGENHARIA DE CONTROLE E AUTOMAÇÃO</option>
+            <option>ENGENHARIA MECÂNICA</option>
+            <option>ENGENHARIA QUÍMICA</option>
+            <option>ENGENHARIA DE ALIMENTOS</option>
+            <option>ENGENHARIA DE PRODUÇÃO</option>
+            <option>ENGENHARIA</option>
+            <option>ENGENHARIA AMBIENTAL</option>
+            <option>ENGENHARIA FLORESTAL</option> </select>
+            <br><br>
+            <input type="button" onclick="myApp.geraGraficosPorCurso()" value="Escolher">
+        </form>
+            
+        </div>
         <div id="chart01"></div>
-    	<div id="chart02"></div>
+    	<div id="chart02"></div>    
         <div id="chart03"></div>
         <div id="chart04"></div>
         <div id="chart05"></div>
