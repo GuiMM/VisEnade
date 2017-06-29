@@ -108,7 +108,8 @@ namespace DataWorker
             Dictionary<string, int> countIncomes                                                            = new Dictionary<string, int>();
             Dictionary<string, Dictionary<string, Dictionary<string, int>>> courseStateIncomeCount          = new Dictionary<string, Dictionary<string, Dictionary<string, int>>>();
             Dictionary<string, Dictionary<string, int>> stateIncomeCount                                    = new Dictionary<string, Dictionary<string, int>>();
-            Dictionary<string, Dictionary<string, int>> courseIncomeCount = new Dictionary<string, Dictionary<string, int>>();
+            Dictionary<string, Dictionary<string, int>> courseIncomeCount                                   = new Dictionary<string, Dictionary<string, int>>();
+            Dictionary<string, Dictionary<string, List<double>>> stateCourseGrades                          = new Dictionary<string, Dictionary<string, List<double>>>();
 
             FileHelperEngine<EnadeObject> readEngine = new FileHelperEngine<EnadeObject>();
             int count = 1;
@@ -268,7 +269,6 @@ namespace DataWorker
                 }
 
                 //Course/Income Count
-                //Filling course/income/grades dictionary
                 if (courseIncomeCount.ContainsKey(currentRecord.codigoCurso))
                 {
                     if (courseIncomeCount[currentRecord.codigoCurso].ContainsKey(currentRecord.faixaDeRenda))
@@ -285,91 +285,117 @@ namespace DataWorker
                     courseIncomeCount.Add(currentRecord.codigoCurso, new Dictionary<string, int>());
                     courseIncomeCount[currentRecord.codigoCurso].Add(currentRecord.faixaDeRenda, 1);
                 }
+
+                //Filling state/course/grades dictionary
+                if (stateCourseGrades.ContainsKey(currentRecord.codigoUF))
+                {
+                    if (stateCourseGrades[currentRecord.codigoUF].ContainsKey(currentRecord.codigoCurso))
+                    {
+                        if (!String.IsNullOrWhiteSpace(currentRecord.notaGeral))
+                            stateCourseGrades[currentRecord.codigoUF][currentRecord.codigoCurso].Add(Double.Parse(currentRecord.notaGeral) / 10);
+                    }
+                    else
+                    {
+                        if (!String.IsNullOrWhiteSpace(currentRecord.notaGeral))
+                            stateCourseGrades[currentRecord.codigoUF].Add(currentRecord.codigoCurso, new List<double> { Double.Parse(currentRecord.notaGeral) / 10 });
+                        else
+                            stateCourseGrades[currentRecord.codigoUF].Add(currentRecord.codigoCurso, new List<double>());
+                    }
+                }
+                else
+                {
+                    stateCourseGrades.Add(currentRecord.codigoUF, new Dictionary<string, List<double>>());
+                    if (!String.IsNullOrWhiteSpace(currentRecord.notaGeral))
+                        stateCourseGrades[currentRecord.codigoUF].Add(currentRecord.codigoCurso, new List<double> { Double.Parse(currentRecord.notaGeral) / 10 });
+                    else
+                        stateCourseGrades[currentRecord.codigoUF].Add(currentRecord.codigoCurso, new List<double>());
+                }
+
                 count++;
             }
 
             Console.WriteLine("Writing files");
-            //#region CSV FILES
+            #region CSV FILES
 
-            ////Writing Files
-            //List<WriteFileObject> stateGradesRecords        = new List<WriteFileObject>();
-            //List<WriteFileObject> courseIncomeGradesRecords = new List<WriteFileObject>();
-            //WriteFileObject record;
-            //double gradesSum = 0;
+            //Writing Files
+            List<WriteFileObject> stateGradesRecords = new List<WriteFileObject>();
+            List<WriteFileObject> courseIncomeGradesRecords = new List<WriteFileObject>();
+            WriteFileObject record;
+            double gradesSum = 0;
 
-            //FileHelperEngine<WriteFileObject> writeEngine = new FileHelperEngine<WriteFileObject>();
+            FileHelperEngine<WriteFileObject> writeEngine = new FileHelperEngine<WriteFileObject>();
 
-            //// States/grades file
-            //foreach (string currentState in stateGrades.Keys)
-            //{
-            //    record = new WriteFileObject();
-            //    gradesSum = 0;
+            // States/grades file
+            foreach (string currentState in stateGrades.Keys)
+            {
+                record = new WriteFileObject();
+                gradesSum = 0;
 
-            //    // Changing states codes to names, to write the file
-            //    if (states.ContainsKey(currentState))
-            //    {
-            //        record.state = states[currentState];
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine("Estado não encontrado na lista");
-            //        continue;
-            //    }
+                // Changing states codes to names, to write the file
+                if (states.ContainsKey(currentState))
+                {
+                    record.state = states[currentState];
+                }
+                else
+                {
+                    Console.WriteLine("Estado não encontrado na lista");
+                    continue;
+                }
 
-            //    // Calculating average grade
-            //    foreach (double currentGrade in stateGrades[currentState])
-            //    {
-            //        gradesSum += currentGrade; 
-            //    }
-            //    record.average = Math.Round((gradesSum / stateGrades[currentState].Count), 2);
-                
-            //    stateGradesRecords.Add(record);
-            //}
+                // Calculating average grade
+                foreach (double currentGrade in stateGrades[currentState])
+                {
+                    gradesSum += currentGrade;
+                }
+                record.average = Math.Round((gradesSum / stateGrades[currentState].Count), 2);
 
-            //writeEngine.WriteFile("C:\\Projetos\\UFF\\VisEnade\\DataWorker\\DataWorker\\DataWorker\\Output\\StatesGrades.csv", stateGradesRecords);
+                stateGradesRecords.Add(record);
+            }
 
-            //// Course/Income/Grades file
-            //foreach(string currentCourse in courseIncomeGrades.Keys)
-            //{
-            //    foreach(string currentIncome in courseIncomeGrades[currentCourse].Keys)
-            //    {
-            //        record = new WriteFileObject();
-            //        gradesSum = 0;
+            writeEngine.WriteFile("C:\\Projetos\\UFF\\VisEnade\\DataWorker\\DataWorker\\DataWorker\\Output\\StatesGrades.csv", stateGradesRecords);
 
-            //        // Changing courses and incomes codes to names, to write the file
-            //        if (courses.ContainsKey(currentCourse))
-            //        {
-            //             record.course = courses[currentCourse];
-            //        }
-            //        else
-            //        {
-            //            Console.WriteLine("Curso não encontrado na lista");
-            //            continue;
-            //        }
+            // Course/Income/Grades file
+            foreach (string currentCourse in courseIncomeGrades.Keys)
+            {
+                foreach (string currentIncome in courseIncomeGrades[currentCourse].Keys)
+                {
+                    record = new WriteFileObject();
+                    gradesSum = 0;
 
-            //        if (incomes.ContainsKey(currentIncome))
-            //        {
-            //            record.income = incomes[currentIncome]; 
-            //        }
-            //        else
-            //        {
-            //            Console.WriteLine("Faixa de renda não encontrada na lista");
-            //            continue;
-            //        }
+                    // Changing courses and incomes codes to names, to write the file
+                    if (courses.ContainsKey(currentCourse))
+                    {
+                        record.course = courses[currentCourse];
+                    }
+                    else
+                    {
+                        Console.WriteLine("Curso não encontrado na lista");
+                        continue;
+                    }
 
-            //        // Calculating average grade
-            //        foreach(double currentGrade in courseIncomeGrades[currentCourse][currentIncome])
-            //        {
-            //            gradesSum += currentGrade;
-            //        }
-            //        record.average = Math.Round((gradesSum / courseIncomeGrades[currentCourse][currentIncome].Count),2);
+                    if (incomes.ContainsKey(currentIncome))
+                    {
+                        record.income = incomes[currentIncome];
+                    }
+                    else
+                    {
+                        Console.WriteLine("Faixa de renda não encontrada na lista");
+                        continue;
+                    }
 
-            //        courseIncomeGradesRecords.Add(record);
-            //    }
-            //}
+                    // Calculating average grade
+                    foreach (double currentGrade in courseIncomeGrades[currentCourse][currentIncome])
+                    {
+                        gradesSum += currentGrade;
+                    }
+                    record.average = Math.Round((gradesSum / courseIncomeGrades[currentCourse][currentIncome].Count), 2);
 
-            //writeEngine.WriteFile("C:\\Projetos\\UFF\\VisEnade\\DataWorker\\DataWorker\\DataWorker\\Output\\CourseIncomeGrades.csv", courseIncomeGradesRecords);
-            //#endregion
+                    courseIncomeGradesRecords.Add(record);
+                }
+            }
+
+            writeEngine.WriteFile("C:\\Projetos\\UFF\\VisEnade\\DataWorker\\DataWorker\\DataWorker\\Output\\CourseIncomeGrades.csv", courseIncomeGradesRecords);
+            #endregion
 
             #region JSON FILES
 
@@ -383,7 +409,7 @@ namespace DataWorker
 
                 foreach (string currentIncome in courseIncomeGrades[currentCourse].Keys)
                 {
-                    
+
                     // Changing courses codes to names, to write the file
                     if (courses.ContainsKey(currentCourse))
                     {
@@ -613,7 +639,7 @@ namespace DataWorker
                     }
                     else
                     {
-                        Console.WriteLine("Curso não encontrado na lista");
+                        Console.WriteLine("Estado não encontrado na lista");
                         continue;
                     }
 
@@ -707,6 +733,47 @@ namespace DataWorker
                 sw6.Flush();
             }
             sw6.Close();
+
+            StateCourseGradeObject stateCourseGradeObj = new StateCourseGradeObject();
+            StreamWriter sw7 = new StreamWriter("C:\\Projetos\\UFF\\VisEnade\\DataWorker\\DataWorker\\DataWorker\\Output\\StateCourseGrade.json");
+
+            foreach(string currentState in stateCourseGrades.Keys)
+            {
+                
+                foreach(string currentCourse in stateCourseGrades[currentState].Keys)
+                {
+                    stateCourseGradeObj = new StateCourseGradeObject();
+                    // Changing courses codes to names, to write the file
+                    if (states.ContainsKey(currentState))
+                    {
+                        stateCourseGradeObj.state = states[currentState];
+                    }
+                    else
+                    {
+                        Console.WriteLine("Estado não encontrado na lista");
+                        continue;
+                    }
+
+                    // Changing courses codes to names, to write the file
+                    if (courses.ContainsKey(currentCourse))
+                    {
+                        stateCourseGradeObj.course = courses[currentCourse];
+                    }
+                    else
+                    {
+                        Console.WriteLine("Curso não encontrado na lista");
+                        continue;
+                    }
+
+                    stateCourseGradeObj.grade = CalculateStateCourseAvgGrade(stateCourseGrades,currentState, currentCourse);
+                    //Writting on file
+                    sw7.WriteLine(JsonConvert.SerializeObject(stateCourseGradeObj));
+                    sw7.Flush();
+                }
+
+            }
+
+            sw7.Close();
             #endregion
 
             Console.WriteLine("Arquivos finalizados");
@@ -736,6 +803,19 @@ namespace DataWorker
             }
 
             return Math.Round((gradesSum / courseStateIncomeGrades[currentCourse][currentState][currentIncome].Count), 2);
+        }
+
+        public static double CalculateStateCourseAvgGrade(Dictionary<string, Dictionary<string, List<double>>> stateCourseGrades, string currentState, string currentCourse)
+        {
+            double gradesSum = 0;
+
+            // Calculating average grade
+            foreach (double currentGrade in stateCourseGrades[currentState][currentCourse])
+            {
+                gradesSum += currentGrade;
+            }
+
+            return Math.Round((gradesSum / stateCourseGrades[currentState][currentCourse].Count), 2);
         }
     }
 }

@@ -56,6 +56,7 @@
     <Compile Include="Models\CourseStateIncomeCountObject.cs" />
     <Compile Include="Models\CourseStateIncomeObject.cs" />
     <Compile Include="Models\EnadeObject.cs" />
+    <Compile Include="Models\StateCourseGradeObject.cs" />
     <Compile Include="Models\StateIncomeCountObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
