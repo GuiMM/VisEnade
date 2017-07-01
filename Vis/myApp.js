@@ -8,7 +8,7 @@ myApp.chart03 = undefined;
 
 myApp.geraHistograma = function(state)
 {
-     var file = "../DataWorker/DataWorker/DataWorker/Output/courseStateIncomeGrade - g1.json";
+     var file = "courseStateIncomeGrade - g1.json";
      d3.json(file, function(error, data)
             {       
                 myApp.chart02 = undefined;
@@ -18,7 +18,7 @@ myApp.geraHistograma = function(state)
             });
     
      //loading data
-    var file = "../DataWorker/DataWorker/DataWorker/Output/courseStateIncomeGrade - g2.json";
+    var file = "courseStateIncomeGrade - g2.json";
      d3.json(file, function(error, data)
             {
                 myApp.chart03 = undefined;
@@ -39,7 +39,7 @@ myApp.geraGraficosPorCurso = function()
         window.location.reload(false);
     
       //loading data
-    var file = "../DataWorker/DataWorker/DataWorker/Output/CourseIncomeCount.json";
+    var file = "CourseIncomeCount.json";
      d3.json(file, function(error, data)
             {
                 myApp.chart02 = new pieChartPerCourse();
@@ -48,7 +48,7 @@ myApp.geraGraficosPorCurso = function()
             });
     
      //loading data
-    var file = "../DataWorker/DataWorker/DataWorker/Output/courseStateIncomeGrade.json";
+    var file = "courseStateIncomeGrade.json";
      d3.json(file, function(error, data)
             {
                 myApp.chart04 = new histogramaCurso();
@@ -63,7 +63,7 @@ myApp.run = function()
     myApp.chart01.run();
     
      //loading data
-    var file = "../DataWorker/DataWorker/DataWorker/Output/countIncome.json";
+    var file = "countIncome.json";
      d3.json(file, function(error, data)
             {
                 myApp.chart02 = new pieChart();
@@ -72,7 +72,7 @@ myApp.run = function()
             });
     
     //loading data
-    var file = "../DataWorker/DataWorker/DataWorker/Output/courseIncomeGrade - g1.json";
+    var file = "courseIncomeGrade - g1.json";
      d3.json(file, function(error, data)
             {
                 myApp.chart03 = new histograma();
@@ -81,7 +81,7 @@ myApp.run = function()
             });
     
      //loading data
-    var file = "../DataWorker/DataWorker/DataWorker/Output/courseIncomeGrade - g2.json";
+    var file = "courseIncomeGrade - g2.json";
      d3.json(file, function(error, data)
             {
                 myApp.chart04 = new histograma();

@@ -111,7 +111,7 @@ function map(){
         document.getElementById("chart03").innerHTML = "";
         document.getElementById("chart04").innerHTML = "";
         
-        var file = "../DataWorker/DataWorker/DataWorker/Output/courseStateIncomeGrade - g1.json";
+        var file = "courseStateIncomeGrade - g1.json";
      d3.json(file, function(error, data)
             {
                 myApp.chart02 = new histograma();
@@ -120,7 +120,7 @@ function map(){
             });
     
      //loading data
-    var file = "../DataWorker/DataWorker/DataWorker/Output/courseStateIncomeGrade - g2.json";
+    var file = "courseStateIncomeGrade - g2.json";
      d3.json(file, function(error, data)
             {
                 myApp.chart03 = new histograma();
@@ -129,7 +129,7 @@ function map(){
             });
         
         //loading data
-    var file = "../DataWorker/DataWorker/DataWorker/Output/StateIncomeCount.json";
+    var file = "StateIncomeCount.json";
      d3.json(file, function(error, data)
             {
                 myApp.chart05 = new pieChartPerState();
@@ -203,7 +203,7 @@ function map(){
         .attr("class", "tooltip")
         .style("opacity", 0);
         
-        myApp.loadData("../DataWorker/DataWorker/DataWorker/Output/StatesGrades.csv");    
+        myApp.loadData("StatesGrades.csv");    
         myApp.loadGeoJson("./brasil_estados.geojson");
         
         myApp.legend();

@@ -5,7 +5,7 @@
         var exports = {};
         
         scope.margins = {top: 10, bottom: 250, left: 50, right: 100};
-        scope.cw = 550;
+        scope.cw = 500;
         scope.ch = 500;
         scope.labelX = undefined;
         scope.labelY = undefined;
